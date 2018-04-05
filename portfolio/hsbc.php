@@ -23,7 +23,7 @@
 				<!-- MODULE TITLE -->
 				<div class="row">
 
-					<div class="col-sm-6 col-sm-offset-3">
+					<div class="col-sm-8 col-sm-offset-2">
 
 						<h1 class="module-title align-center">HSBC Design Review Board<br/><span class="small">Providing Art Direction to global design teams.</span></h1>
 
