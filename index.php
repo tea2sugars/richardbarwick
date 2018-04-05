@@ -132,14 +132,14 @@
                             </li>
 		<!-- PORTFOLIO ITEM -->
 						<li class="work-item digital">
-							<a href="portfolio/5mm">
+							<a href="portfolio/hsbc">
 								<div class="work-image">
-									<img src="../assets/images/projects/5mm_portfolio_thumbnail.jpg" alt="5mm Interior Design Website Design"/>
+									<img src="../assets/images/projects/hsbc_portfolio_thumbnail.jpg" alt="HSBC Bank"/>
 								</div>
 								<div class="work-caption">
-									<h3 class="work-title ">5mm.co</h3>
+									<h3 class="work-title ">HSBC</h3>
 									<div class="work-descr ">
-										Responsive Website Design
+										Art Direction
 									</div>
 								</div>
 							</a>
