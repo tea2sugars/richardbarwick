@@ -73,10 +73,10 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 			<ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
 				
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item digital ux dev">
+				<li class="work-item digital ux branding artdirection">
 					<a href="salute">
 						<div class="work-image">
-							<img src="../assets/images/projects/hsbc_thumbnail.png" alt="HSBC Bank"/>
+							<img src="../assets/images/projects/hsbc_portfolio_thumbnail.jpg" alt="HSBC Bank"/>
 						</div>
 						<div class="work-caption">
 							<h3 class="work-title ">HSBC Design Review Board</h3>
