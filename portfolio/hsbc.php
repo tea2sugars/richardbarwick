@@ -16,7 +16,7 @@
 
 
 	<!-- HOME -->
-	<section class="module module-header bg-dark bg-dark-70" data-background="../assets/images/projects/5mm_general_header.jpg">
+	<section class="module module-header bg-dark bg-dark-70">
 
 			<div class="container">
 
@@ -25,7 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">5mm Interior Design Responsive Website design<br/><span class="small">Using the browser as a tool to deliver stunning imagery</span></h1>
+						<h1 class="module-title align-center">HSBC Design Review Board<br/><span class="small">Providing Art Direction to global design teams.</span></h1>
 
 
 					</div>
