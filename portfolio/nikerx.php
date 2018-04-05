@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Creativitea work with Nike and Marchon Eyewear to develop the Nike RX glasswear brand and their printed product catelogue">
+	<meta name="description" content="Rik Barwick work with Nike and Marchon Eyewear to develop the Nike RX glasswear brand and their printed product catelogue">
 	<meta name="author" content="">
 	
-	<title>Nike RX for Marchon Eyewear | Brand and Catalogue design | Creativitea - A brand and print design agency</title>
+	<title>Nike RX for Marchon Eyewear | Brand and Catalogue design | Rik Barwick - A brand and print design agency</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

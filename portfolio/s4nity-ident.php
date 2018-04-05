@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Creativitea worked with S4NITY to create an award-winning brand and company mascot. We designed a mascot and animated him as a teaser ident video.">
+	<meta name="description" content="Rik Barwick worked with S4NITY to create an award-winning brand and company mascot. We designed a mascot and animated him as a teaser ident video.">
 	<meta name="author" content="">
 	
-	<title>S4NITY | Branding | 3D Character Design and Animation | Creativitea - A Brand & Digital Design Agency</title>
+	<title>S4NITY | Branding | 3D Character Design and Animation | Rik Barwick - A Brand & Digital Design Agency</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>
@@ -25,7 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">S4NITY<br/><span class="small">Award-winning brand mascot design & animation</span></h1>
+						<h1 class="module-title align-center">S4NITY<br/><span class="small">Award-winning brand mascot design &amp; animation</span></h1>
 
 
 					</div>

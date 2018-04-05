@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Creativitea worked with MediaDevil to design the visual identity and packaging for their Artisan Pouch Case range. It won an award!">
+	<meta name="description" content="Rik Barwick worked with MediaDevil to design the visual identity and packaging for their Artisan Pouch Case range. It won an award!">
 	<meta name="author" content="">
 	
-	<title>MediaDevil Artisan Pouch Packaging | Award-wining Packaging Design | Creativitea - A brand & print design agency</title>
+	<title>MediaDevil Artisan Pouch Packaging | Award-wining Packaging Design | Rik Barwick Freelance Website Designer, Suffolk</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

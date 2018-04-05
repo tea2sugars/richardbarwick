@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Creativitea worked with Buyapowa to help develop the User Experience and Website Design for their Social Commerce SAAS Platform">
+	<meta name="description" content="Rik Barwick worked with Buyapowa to help develop the User Experience and Website Design for their Social Commerce SAAS Platform">
 	<meta name="author" content="">
 	
-	<title>Buyapowa Social Commerce | UX and Website Design | Creativitea - A digital design agency</title>
+	<title>Buyapowa Social Commerce | UX and Website Design | Rik Barwick Freelance Website Designer, Suffolk</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

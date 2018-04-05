@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Creativitea worked with Artisan Pizza Restaurant 'Domenico' to design a fresh new brand and website design.">
+	<meta name="description" content="Rik Barwick worked with Artisan Pizza Restaurant 'Domenico' to design a fresh new brand and website design.">
 	<meta name="author" content="">
 	
-	<title>Domenico | Branding | Website Design | Creativitea - A Brand, Digital, Print Design Agency</title>
+	<title>Domenico | Branding | Website Design | Rik Barwick Freelance Website Designer, Suffolk</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>
@@ -73,7 +73,7 @@
 								<li><strong>Budget: </strong>£££££</li>
 								<!--<li><strong>Testimonial: </strong>
 									<br/>
-									<blockquote>Being a new company, FiveThree had lots of things to worry about - the creation and development of a brand identity wasn't one of them thanks to the creative thinking at Creativitea.</blockquote>
+									<blockquote>Being a new company, FiveThree had lots of things to worry about - the creation and development of a brand identity wasn't one of them thanks to the creative thinking at Rik Barwick.</blockquote>
 									Michael Hockey <span class="yellow">|</span> Director
 								</li>-->
 							</ul>

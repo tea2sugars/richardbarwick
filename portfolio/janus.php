@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="I worked with Software AG to design the interface for a new digital infographic for Project Janus">
+	<meta name="description" content="Rik Barwick worked with Software AG to design the interface for a new digital infographic for Project Janus">
 	<meta name="author" content="">
 	
 	<title>Project JANUS - Software AG - Digital Infographic</title>

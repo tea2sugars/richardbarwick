@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Rik Barwick worked with new marketing agency startup FiveThree to deliver a strong, flexible brand, brand guidelines and digital presence">
+	<meta name="description" content="Rik Barwick worked with AnalogFolk and HSBC as part of their DRB team">
 	<meta name="author" content="">
 	
-	<title>FiveThree | Branding and Visual Design | Rik Barwick Freelance Website Designer, Suffolk</title>
+	<title>5mm.co | Website Design | Rik Barwick - Freelance Digital Art Director, Suffolk</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>
@@ -16,7 +16,7 @@
 
 
 	<!-- HOME -->
-	<section class="module module-header bg-dark bg-dark-50" data-background="../assets/images/projects/53_general_header.jpg">
+	<section class="module module-header bg-dark bg-dark-70" data-background="../assets/images/projects/5mm_general_header.jpg">
 
 			<div class="container">
 
@@ -25,7 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">FiveThree<br/><span class="small">New Startup Branding Design</span></h1>
+						<h1 class="module-title align-center">5mm Interior Design Responsive Website design<br/><span class="small">Using the browser as a tool to deliver stunning imagery</span></h1>
 
 
 					</div>
@@ -57,28 +57,28 @@
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/53_portfolio_01.jpg" alt="53 Branding"></p>
+						<p><img src="../assets/images/projects/5mm_portfolio_03.jpg" alt="5mm Responsive Website Design"></p>
 					</div>
-					
 				</div>
+
 				<!-- PORTFOLIO DESCRIPTION -->
 				<div class="row m-t-70">
 
 					<div class="col-md-4">
 						<div class="work-details">
 							<ul>
-								<li><strong>Client: </strong>FiveThree</li>
-								<li><strong>Project: </strong>Branding, Visual Identity, Stationary, Website Design & Brand Guidelines</li>
-								<!--<li><strong>Online: </strong><a href="#" target="_blank">www.example.com</a></li>-->
-								<li><strong>Budget: </strong>££££</li>
-								<li><strong>Testimonial: </strong>
+								<li><strong>Client: </strong>HSBC &amp AnalogFolk</li>
+								<li><strong>Project: </strong>Art Direction, Brand Guardian, UX Consultant</li>
+								<li><strong>Budget: </strong>£££££</li>
+								<!--<li><strong>Testimonial: </strong>
 									<br/>
-									<blockquote>Being a new company, FiveThree had lots of things to worry about - the creation and development of a brand identity wasn't one of them thanks to the creative thinking from Rik.</blockquote>
+									<blockquote>Being a new company, FiveThree had lots of things to worry about - the creation and development of a brand identity wasn't one of them thanks to the creative thinking at Rik Barwick.</blockquote>
 									Michael Hockey <span class="yellow">|</span> Director
-								</li>
+								</li>-->
 							</ul>
 						</div>
 					</div>
+
 
 					<div class="col-md-8">
 
@@ -86,19 +86,25 @@
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">History</h5>
-								<p>FiveThree are a marketing and strategy consultancy.</p>
+								<p>AnalogFolk have HSBC Bank on retainer providing Design consultancy and branding.</p>
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">Our Brief</h5>
-								<p>Being a start-up FiveThree approached us to develop a brand identity for them, and then to implement this across various company outputs including a website, stationery and client facing presentations.</p>
+								<p>From January 2017 to January 2018 I worked with AnalogFolk on the Design Review Board (DRB). A dedicated team to one of the world's largest banking and financial services organisations, HSBC. </p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
 								<h5 class="m-t-0">What we did</h5>
-								<p>We designed an identity that reflected their friendly, passionate and knowledgable approach, underpinned by a simple but strong logo mark, bold gridded typography in confident combinations of colour, positioned on deep black. This look was then translated into a website, stationery, presentation systems and complete brand guidelines.</p>
+								<p>I was responsible for conducting design and UX reviews for all digital collateral in the Retail and Wealth Management verticals.</p>
 
+<p>I ensured that every piece of work (500+ reviews) created by the business or other agencies adhered to the banks brand standards. I was also tasked with guiding global teams on design and UX issues arising to ensure approval by HSBC and go-live.</p>
+
+<p>I provided art-direction remotely through video conferences and detailed reports. I also attended sprints and various workshops with multiple agencies and the client.</p>
+
+<p>I also provided HSBC with reports about their own brand guidelines and UX standards to help these grow inline with the increasing business and technological demands.</p>
 								<?php include('../assets/php/includes/portfolio-cta.html');?>
+								
 							</div>
 
 						</div>
@@ -122,16 +128,8 @@
 					<!--<div class="col-sm-12">-->
 						<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/53_portfolio_02.jpg" alt="53_portfolio_01"></p>
-						<p><img src="../assets/images/projects/53_portfolio_03.jpg" alt="Brand Stationary"></p>
-						<p><img src="../assets/images/projects/53_portfolio_04.jpg" alt="Brand Guidelines"></p>
-						<p><img src="../assets/images/projects/53_portfolio_05.jpg" alt="Website Design and Development"></p>
-						<p><img src="../assets/images/projects/53_portfolio_06.jpg" alt="Website Design and Development"></p>
-						<p><img src="../assets/images/projects/53_portfolio_07.jpg" alt="Brand Guidelines - How to use the logo"></p>
-
-
-
-					</div>
+						<p><img src="../assets/images/projects/hsbc_portfolio_01.jpg" alt="HSBC"></p>
+						</div>
 
 				</div><!-- .row -->
 
@@ -141,6 +139,7 @@
 		<!-- /PORTFOLIO CONTENT -->
 
 		<?php include('../assets/php/includes/portfolio-pagination.html');?>
+		
 
 		<!-- DIVIDER -->
 		<hr class="divider-w">

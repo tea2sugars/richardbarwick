@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Creativitea worked with Buyapowa to help deliver a responsive website solution for their B2B Marketing Website using Foundation Framework">
+	<meta name="description" content="Rik Barwick worked with Buyapowa to help deliver a responsive website solution for their B2B Marketing Website using Foundation Framework">
 	<meta name="author" content="">
 	
-	<title>Buyapowa | B2B Marketing Website Design | Creativitea - A digital design agency</title>
+	<title>Buyapowa | B2B Marketing Website Design | Rik Barwick - A freelance UX consultant, Suffolk</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>
@@ -73,7 +73,7 @@
 								<li><strong>Budget: </strong>££££</li>
 								<li><strong>Testimonial: </strong>
 									<br/>
-									<blockquote>I worked with Creativitea on a number of web projects during my tenure at Buyapowa. We worked together on simplifying the web landscape which had been botched together, to provide a seamless integration between legacy static HTML, a WordPress blog, and Hubspot marketing system - not an easy task. </blockquote>
+									<blockquote>I worked with Rik Barwick on a number of web projects during my tenure at Buyapowa. We worked together on simplifying the web landscape which had been botched together, to provide a seamless integration between legacy static HTML, a WordPress blog, and Hubspot marketing system - not an easy task. </blockquote>
 									James T Fletcher <span class="yellow">|</span> Digital Marketing Consultant
 								</li>
 							</ul>

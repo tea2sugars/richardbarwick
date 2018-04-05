@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Creativitea worked with Maxinutrition to redesign their ecommerce platform. We designed a new logotype for Maxishop.com and worked on Information Architecture and UX.">
+	<meta name="description" content="Rik Barwick worked with Maxinutrition to redesign their ecommerce platform. We designed a new logotype for Maxishop.com and worked on Information Architecture and UX.">
 	<meta name="author" content="">
 	
-	<title>Maxishop | Branding | E-Commerce Design, UX and Information Architecture | Creativitea - A Digital design agency</title>
+	<title>Maxishop | Branding | E-Commerce Design, UX and Information Architecture | Rik Barwick Freelance UX Designer, Suffolk</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>
@@ -73,7 +73,7 @@
 								<li><strong>Budget: </strong>£££££</li>
 								<!--<li><strong>Testimonial: </strong>
 									<br/>
-									<blockquote>Being a new company, FiveThree had lots of things to worry about - the creation and development of a brand identity wasn't one of them thanks to the creative thinking at Creativitea.</blockquote>
+									<blockquote>Being a new company, FiveThree had lots of things to worry about - the creation and development of a brand identity wasn't one of them thanks to the creative thinking at Rik Barwick.</blockquote>
 									Michael Hockey <span class="yellow">|</span> Director
 								</li>-->
 							</ul>

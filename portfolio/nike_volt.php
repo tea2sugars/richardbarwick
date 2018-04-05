@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Creativitea work with Nike and Marchon Eyewear to develop the Nike Volt glasswear campaign placed in airports across the country. In conjunction with World Duty Free">
+	<meta name="description" content="Rik Barwick work with Nike and Marchon Eyewear to develop the Nike Volt glasswear campaign placed in airports across the country. In conjunction with World Duty Free">
 	<meta name="author" content="">
 	
-	<title>Nike Volt Campaign for Marchon Eyewear | Outdoor Campaign Design | Creativitea - A brand and print design agency</title>
+	<title>Nike Volt Campaign for Marchon Eyewear | Outdoor Campaign Design | Rik Barwick - Rik Barwick Freelance Website Designer, Suffolk/title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

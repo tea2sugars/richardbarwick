@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Creativitea were tasked with scoping the potential direction of a brand and identity redesign to aline it with the new strategic planning and targets of the business.">
+	<meta name="description" content="Rik Barwick were tasked with scoping the potential direction of a brand and identity redesign to aline it with the new strategic planning and targets of the business.">
 	<meta name="author" content="">
 	
-	<title>Talkmobile | Brand Investigation | Creativitea - A brand design agency</title>
+	<title>Talkmobile | Brand Investigation | Rik Barwick - Rik Barwick Freelance Brand and Website Designer, Suffolk</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Creativitea worked with Lycamobile to design their Customer Service App">
+	<meta name="description" content="Rik Barwick worked with Lycamobile to design their Customer Service App">
 	<meta name="author" content="">
 	
-	<title>Lycamobile Customer Service App | Android App Design | Creativitea - A Digital Design Agency</title>
+	<title>Lycamobile Customer Service App | Android App Design | Rik Barwick Freelance Website Designer, Suffolk</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>
@@ -73,7 +73,7 @@
 								<li><strong>Budget: </strong>£££££</li>
 								<!--<li><strong>Testimonial: </strong>
 									<br/>
-									<blockquote>I worked with Creativitea on a number of web projects during my tenure at Buyapowa. We worked together on simplifying the web landscape which had been botched together, to provide a seamless integration between legacy static HTML, a WordPress blog, and Hubspot marketing system - not an easy task. </blockquote>
+									<blockquote>I worked with Rik Barwick on a number of web projects during my tenure at Buyapowa. We worked together on simplifying the web landscape which had been botched together, to provide a seamless integration between legacy static HTML, a WordPress blog, and Hubspot marketing system - not an easy task. </blockquote>
 									James T Fletcher <span class="yellow">|</span> Digital Marketing Consultant
 								</li>-->
 							</ul>

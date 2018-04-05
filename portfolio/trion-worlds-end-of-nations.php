@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Creativitea worked with Trion Worlds to create a hard-hitting campaign for game title End of Nations">
+	<meta name="description" content="Rik Barwick worked with Trion Worlds to create a hard-hitting campaign for game title End of Nations">
 	<meta name="author" content="">
 	
-	<title>Trion Worlds | End of Nations Campaign | Creativitea - A Brand, Digital, Print Design Agency</title>
+	<title>Trion Worlds | End of Nations Campaign | Rik Barwick Freelance Website Designer, Suffolk</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>
