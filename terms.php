@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Terms and Conditions">	
-	<title>Creativitea - Terms and Conditions</title>
+	<title>Rik Barwick - Terms and Conditions</title>
 	
 		<?php include('assets/php/includes/head-css.html');?>
 

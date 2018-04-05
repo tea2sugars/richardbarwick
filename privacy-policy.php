@@ -7,7 +7,7 @@
 	<meta name="description" content="Privacy Policy">
 	<meta name="author" content="">
 	
-	<title>Creativitea - Privacy Policy &amp; Cookie Statement</title>
+	<title>Rik Barwick - Privacy Policy &amp; Cookie Statement</title>
 	
 		<?php include('assets/php/includes/head-css.html');?>
 
@@ -31,7 +31,7 @@
 
 					<div class="col-sm-8 col-sm-offset-2">
 
-						<h1>Creativitea Privacy Policy &amp; Cookies</h1>
+						<h1>Rik Barwick Privacy Policy &amp; Cookies</h1>
 						
 						<p>We are all worried about our online privacy these days so I thought I should probably say something about your privacy when using this site</p>
 
@@ -48,11 +48,11 @@
 
 						<p>That said I can promise you that we will never share your email address with anybody outside these suppliers and our own company Creativitea.</p>
 
-						<p>If at any point you wish your email address removed from any of these systems just drop me an email at <a href="mail:rik@creativitea.co.uk">rik@creativitea.co.uk</a>.</p>
+						<p>If at any point you wish your email address removed from any of these systems just drop me an email at <a href="mailto:richard.barwick@googlemail.com">richard.barwick@googlemail.com</a>.</p>
 
 						<h2>Cookies</h2>
 
-						<p>We use cookies on the Creativitea website to track user activity on the site and to enable various types of functionality. While we will endeavour to keep the list below updated, the Creativitea site relies on many third party services and the list may therefore become out of date if those services alter the cookies they use.</p>
+						<p>I use cookies on my website to track user activity on the site and to enable various types of functionality. While we will endeavour to keep the list below updated, my site relies on many third party services and the list may therefore become out of date if those services alter the cookies they use.</p>
 
 						<p>Please note that all of these Cookies exist to enable functionality on the website and not for advertising purposes. If you do not wish these cookies to be tracked you can disable them in your browser, but this may negatively effect your experience on the site.</p>
 
