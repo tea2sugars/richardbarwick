@@ -90,12 +90,12 @@
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
-								<h5 class="m-t-0">Our Brief</h5>
+								<h5 class="m-t-0">My Brief</h5>
 								<p>Being a start-up FiveThree approached us to develop a brand identity for them, and then to implement this across various company outputs including a website, stationery and client facing presentations.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
-								<h5 class="m-t-0">What we did</h5>
+								<h5 class="m-t-0">What I did</h5>
 								<p>We designed an identity that reflected their friendly, passionate and knowledgable approach, underpinned by a simple but strong logo mark, bold gridded typography in confident combinations of colour, positioned on deep black. This look was then translated into a website, stationery, presentation systems and complete brand guidelines.</p>
 
 								<?php include('../assets/php/includes/portfolio-cta.html');?>

@@ -96,7 +96,7 @@
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
-								<h5 class="m-t-0">What we did</h5>
+								<h5 class="m-t-0">What I did</h5>
 								<p>The first thing I did was look at previous competitions and discuss with the client what data they'd need to capture and ideally from whom. It was clear that we wanted to attract two types of users – Artists to compete and Fans to judge and share content on social networks. There was no weighting given to each user type as the competition couldn't work without the other but I gave a slight weighting to the artists at phase 1. This is what kickstarts everything so that gave it a slight advantage in the information hierarchy.</p>
 								<p>Once the user personas were established I continued by drawing up rough wireframes using the software <a href="http:www.uxpin.com">UXPin</a> which allowed my to rapidly build wireframes and make them interactive so we could test the <abbr title="User Experience">UX</abbr> internally. I wanted to establish clear conversion routes and achieved this with a dominant message and use of a highlighted navigation item.</p>
 								<p>After this was signed off I worked with the client and their brand guidelines to create the <abbr title="User Interface">UI</abbr>, I helped source imagery and developed the HTML prototype using the Bootstrap framework which was then handed over to the clients back-end dev team to integrate into their CMS.</p>

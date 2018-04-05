@@ -91,12 +91,12 @@
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
-								<h5 class="m-t-0">Our Brief</h5>
+								<h5 class="m-t-0">My Brief</h5>
 								<p>Our brief was to re-design DJST responsive, mobile-friendly website to help them show off key propositions to their audience and increase their conversion rate from next to nothing to a reliable sales tool.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
-								<h5 class="m-t-0">What we did</h5>
+								<h5 class="m-t-0">What I did</h5>
 								<p>DJST had invested in marvellous retro photography to simply decorate their office walls which was to help their sales staff feel motivated and part of something more than just another call centre. When visiting DJST we marvelled at how these made us feel about their brand and insisted we used these to highlight key propositions and Call To Action touch points throughout the site.</p>
 								<p>The website we felt would work best in a linear fashion. Telling the story of who DJST are and what they provide in a step by step process as users scrolled down the page. Revealing great photography touch-points as we go.</p>
 								<p>The site is built with Twitter Bootstrap which handles the majority of the responsive abilities but the back end is powered by Drupal 7 for ease of implementation and administration by DJST's management team.</p>

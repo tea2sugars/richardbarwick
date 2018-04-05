@@ -82,12 +82,12 @@
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
-								<h5 class="m-t-0">Our Brief</h5>
+								<h5 class="m-t-0">My Brief</h5>
 								<p>Freeview approached us to be a supporting creative partner, working along side with Leo Burnett for their new &lsquo;Entertainment is even better when it’s free&rsquo; campaign running over the year, with the specific task of looking at the printed collateral featuring outdoor, press and retail point of sale, working with the lovable couple, Cat and Budgie, and the Freeview left behinds.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
-								<h5 class="m-t-0">What we did</h5>
+								<h5 class="m-t-0">What I did</h5>
 								<p>Due to the assets for each campaign not being available until toward the end of the TV adverts production, timings and deadlines were incredibly tight, so forward planning was a must. From the get go we worked closely with the team at Freeview, reviewing all collateral that was needed to make a defined list of assets and their requirements, advising on how and what was needed as early as possible, ensuring that each delivery of the campaigns printed collateral went on time!</p>
 
 <p>The main focus was to work with the original images shot from live shoots and rework these into assets that could be rolled out across the various printed collateral. The adding and removal of backgrounds; giving marketing messaging and key brand elements of logo and call to actions space to breathe, the flexibility to be used in various compositions of landscape and portrait, and photo realistic retouching; removal and adding of elements within the original images, where undertaken to achieve flexibility needed.</p>

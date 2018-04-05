@@ -91,12 +91,12 @@
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
-								<h5 class="m-t-0">Our Brief</h5>
+								<h5 class="m-t-0">My Brief</h5>
 								<p>Sometimes a business needs to look outside of its own walls to find the answers they need to take it further, getting the thoughts and ideas of others not associated with the company. We call this ‘ideas and disruption’.With their growing portfolio of voice and video conferencing services as well business growth, Powwownow approached us to help them review their current brand identity, with the view of working together to explore new directions and help define their new &lsquo;smarter working&rsquo; approach.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
-								<h5 class="m-t-0">What we did</h5>
+								<h5 class="m-t-0">What I did</h5>
 								<p>With the use of regular workshops as a collaborative team, we reviewed the existing strategy, identity and company touch points, to gain further and more in-depth insights about Powwownow.</p>
 
 <p>A collective decision was made that a new, better defined proposition - company vision was need to align it more with the direction the business was taking and their strategic planning. We devised a series of new &lsquo;visions&rsquo; based on the findings from the workshops, deciding on the new statement of &lsquo;When it matters&rsquo;, underpinned by their quality of service, reliability, customer care and reputation.</p>

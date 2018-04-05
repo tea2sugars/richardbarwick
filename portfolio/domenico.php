@@ -90,12 +90,12 @@
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
-								<h5 class="m-t-0">Our Brief</h5>
+								<h5 class="m-t-0">My Brief</h5>
 								<p>We were asked to design the brand identity, along with launch materials including website, packaging and other brand marketing materials. The identity needed to be different; this was not fast food or a regular high street stop-off. It’s a place where there is a craft in the food they make, the experience of eating traditionally made Italian but in the middle of London. With business also being young, it had to be modern,; a &lsquo;cool&rsquo; place to go.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
-								<h5 class="m-t-0">What we did</h5>
+								<h5 class="m-t-0">What I did</h5>
 								<p>The brand identity gives Domenico a distinctly modern and contemporary feel, yet still has a mark of heritage behind it, for the traditional ‘fresh’ Naples style. The logo features a bespoke script font designed to give the brand a personal and expressive emotion, whilst the colour platte and structured design scheme enriches the messaging and content in a modern portrait of an &lsquo;artisan pizzeria&rsquo;.</p>
 
 <p>Acting as brand guardians, the new identity features across the other collateral we also designed, including a responsive website and packaging. Further works are planned for the menus, staff uniforms, restaurant fascia and other brand marketing including advertising and digital channels.</p>

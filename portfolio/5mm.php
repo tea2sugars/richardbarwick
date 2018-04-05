@@ -91,12 +91,12 @@
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
-								<h5 class="m-t-0">Our Brief</h5>
+								<h5 class="m-t-0">My Brief</h5>
 								<p>Our brief was to re-design 5mm's website to help them show off key projects and their fabulous photography.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
-								<h5 class="m-t-0">What we did</h5>
+								<h5 class="m-t-0">What I did</h5>
 								<p>We were under quite a tight budget and deadline for this project, so we stepped up to the challenge and opted to build 5mm a website using Twitter Bootstrap, which enabled us to efficiently build and design an elegant website around the framework.</p>
 								<p>We opted to use full-screen, scalable imagery for the clients photography to really help show off their work in the browser. The website is a means of serving this content and we didn't want the website to draw attention away from our clients amazing portfolio.</p>
 								<p>The website scales gracefully across different devices ensuring the content looks beautiful wherever their users happen to be.</p>

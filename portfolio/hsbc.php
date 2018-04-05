@@ -90,12 +90,12 @@
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
-								<h5 class="m-t-0">Our Brief</h5>
+								<h5 class="m-t-0">My Brief</h5>
 								<p>From January 2017 to January 2018 I worked with AnalogFolk on the Design Review Board (DRB). A dedicated team to one of the world's largest banking and financial services organisations, HSBC. </p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
-								<h5 class="m-t-0">What we did</h5>
+								<h5 class="m-t-0">What I did</h5>
 								<p>I was responsible for conducting design and UX reviews for all digital collateral in the Retail and Wealth Management verticals.</p>
 
 <p>I ensured that every piece of work (500+ reviews) created by the business or other agencies adhered to the banks brand standards. I was also tasked with guiding global teams on design and UX issues arising to ensure approval by HSBC and go-live.</p>

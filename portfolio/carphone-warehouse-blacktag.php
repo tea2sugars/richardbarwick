@@ -90,12 +90,12 @@
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
-								<h5 class="m-t-0">Our Brief</h5>
+								<h5 class="m-t-0">My Brief</h5>
 								<p>Carphone commissioned us to produce animated shorts to support their Black Tag Event on social media and other online channels; a Black Friday sale running over ten days, instead of the manic single Friday. With the look and feel of the campaign already in place, we had to adapt the campaign for motion, alongside developing a story behind the event to engage with the audience on a more emotive level.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
-								<h5 class="m-t-0">What we did</h5>
+								<h5 class="m-t-0">What I did</h5>
 								<p>To take the stories on a route away form just representing a deal, we focused on the manic madness of Black Friday; the in-store fights, the tug of wars, the pushing, disappointment and the camping out all night just to be the first to grab those bargains.</p>
 								<p>We produced a series of storyboards outlaying three storylines, working to the theme of avoiding the chaos of Black Friday, highlighting this in a tongue-in-cheek style animation whilst also not loosing site of delivering the key messaging of it being the alternative Black Friday. We also developed the additional creative elements that compliment the campaigns look and feel, featuring a series of bespoke illustrations and specific messaging for each of the mini stories.</p>
 								<p>The final three animations focus on avoiding the madness; those deals that are just to hot and go in seconds, queues; the all night camping in the cold, and disappointment; loosing out on that deal to another!</p>

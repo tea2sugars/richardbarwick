@@ -89,12 +89,12 @@
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
-								<h5 class="m-t-0">Our Brief</h5>
+								<h5 class="m-t-0">My Brief</h5>
 								<p>With Talkmobile changing its owners, and having worked with the business for a long time we approached the new team to see if we could help drive the business in its new direction. We were tasked with scoping the potential direction of a brand and identity a redesign to aline it with the new strategic planning and targets of the business.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
-								<h5 class="m-t-0">What we did</h5>
+								<h5 class="m-t-0">What I did</h5>
 								<p>With the need to &lsquo;move&rsquo; the brand away for the &lsquo;cheap&rsquo; tag associated with value brands, we researched across their competitors landscape and also used &lsquo;out of the box&rsquo; thinking, looking at brands that are not within direct competition and some even not in the same industry - gaining a wider view on what makes a value brand worthy of being associated with and being part of.</p>
 
 <p>The outcome of our findings was a more modern and clean approach to the brand, stripping away at its core to a few simple but effective elements. The redesign features a new logo design, visual identity and a tone of voice to reflect the relaxed and easy nature of Talkmobile’s approach, to better value for customers, reinforcing their mission of &lsquo;straight forward value&rsquo;.</p>

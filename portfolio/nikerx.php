@@ -91,12 +91,12 @@
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
-								<h5 class="m-t-0">Our Brief</h5>
+								<h5 class="m-t-0">My Brief</h5>
 								<p>Whilst working with a wide range of high-end fashion brands within Marchon's collection, we were given the opportunity to design various marketing materials for the NikeVision RX collection.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
-								<h5 class="m-t-0">What we did</h5>
+								<h5 class="m-t-0">What I did</h5>
 								<p>We had to develop a look and feel that would set this sophisticated sports collection apart, whilst adhering to Nike's recognisable brand.</p>
 								<p>We have worked on various projects for the Nike RX collection, designing different themes for every season, as well as designing bespoke branding schemes for opening events at retailers such as Nike @ Turners.</p>
 

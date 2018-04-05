@@ -87,12 +87,12 @@
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
-								<h5 class="m-t-0">Our Brief</h5>
+								<h5 class="m-t-0">My Brief</h5>
 								<p>Our brief was to develop the User Experience for a beta launch of Debenhams Lingerie Co-Buy Social Commerce Store</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
-								<h5 class="m-t-0">What we did</h5>
+								<h5 class="m-t-0">What I did</h5>
 								<p>The focus of social selling is that the power is with the audience, so the more people signup and get involved in a particular deal, the cheaper the product becomes for the end-user. Whilst thinking about e-commerce design best practice we also had to make this experience fun an awarding for users through gamification.</p>
 <p>So it became a contest between users who could get the most people to sign up to the deal. The winner was rewarded with some kind of prize donated by the client. We had to design multiple interfaces to deal with different kinds of sales techniques whilst making it clear the user had to share.</p>
 <p>It was a tough challenge because at every turn we had to encourage social sharing through the users network. We still had to ensure the the e-commerce route to basket was quick, easy and without distractions to get the sale complete. Through several iterations and user testing we opted to use a browser based design tool to efficiently put the user journeys we were learning about into practice without the costly developing costs. Something we really enjoyed working on!</p>

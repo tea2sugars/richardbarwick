@@ -90,12 +90,12 @@
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
-								<h5 class="m-t-0">Our Brief</h5>
+								<h5 class="m-t-0">My Brief</h5>
 								<p>Our brief was to design the restaurant a simple website to deliver the concept of the restaurant while integrating the OpenTable booking system.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
-								<h5 class="m-t-0">What we did</h5>
+								<h5 class="m-t-0">What I did</h5>
 								<p>After the success of working with Tante Marie over the past few years they invited us in for a brief for their new business venture – Tante Marie The Restaurant. We worked closely with their Director Andrew Maxwell to design a fresh looking website for a fresh looking restaurant. The website had to work with the interior design of the restaurant, which was ever-changing and adapting as it got built, which was great fun to be a part of.</p>
 <p>UX on restaurant websites is very important; we designed this restaurant website responsively so people out and about can make use of mobile search and find the website on their mobile device. It was also fundamental to the success of the website we portrayed the fine dining experience the client was aiming for, so we used some stunning photography of the restaurant and it's facilities to make this more premium than some of their competitors. It is also extremely important with restaurant websites to show-off the menu and allow users to see a range of meals that are available and price points. We opted for a tab system so it was very easy for visitors to flick through the ever-changing menu.</p>
 <p>The restaurant website integrates with Open Table so visitors can easily book a table in advance, also adding to the great user experience.</p>

@@ -92,12 +92,12 @@
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
-								<h5 class="m-t-0">Our Brief</h5>
+								<h5 class="m-t-0">My Brief</h5>
 								<p>MediaDevil gave us the challenge of designing packaging for their premium leather cases range, neatly named Artisanpouch.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
-								<h5 class="m-t-0">What we did</h5>
+								<h5 class="m-t-0">What I did</h5>
 								<p>We developed a product logotype, designed to sit alongside the other offerings in the Mediadevil catalogue, as well as the visual identity and product photography, all the elements that would make up the final packaging’s look and feel.</p>
 
 <p>After several rounds of prototyping, the final packaging took the form of a slimline box with interchangeable inner trays, that could be modified to hold various sized cases for different phone models, without having to alter the outer packaging, making it cost effect solution for the product's entire range.</p>

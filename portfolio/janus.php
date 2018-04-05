@@ -90,12 +90,12 @@
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
-								<h5 class="m-t-0">Our Brief</h5>
+								<h5 class="m-t-0">My Brief</h5>
 								<p>Project JANUS was developed for the MoD’s Defence Science and Technology Laboratory built a team under its Command Inform and Battle Management (CIBM) program to look at demand planning and forecasting. My job was to help raise awareness of this program by translating a printed infographic into something slick and digital.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
-								<h5 class="m-t-0">What we did</h5>
+								<h5 class="m-t-0">What I did</h5>
 								<p>The first thing I did was to help strip the noise out of the printed material and organise the information into digestible chunks. Once we had the key content i was able to pay homage to the printed material but completely flip it on it's head. Designing the User Interface (UI) for their digital tool. My design is based on various HUD (Heads Up Display) inspired by gaming and sci-fi movies I've seen and also taking shape from a digital display i'd seen on a radiator funnily enough.</p>
 								<p>Circular Navigation is rarely used on screen and suits IoT devices like Hive. I wanted to design something different than you usually see on screen so adopted for this approach which the client and i thought worked great.</p>
 

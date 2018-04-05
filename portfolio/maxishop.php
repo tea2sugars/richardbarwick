@@ -91,12 +91,12 @@
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
-								<h5 class="m-t-0">Our Brief</h5>
+								<h5 class="m-t-0">My Brief</h5>
 								<p>Maxi briefed us to combine their 5 brand e-commerce websites into one feature-rich experience, working in harmony with their marketing activity, falling inline with current e-commerce trends and good practice.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
-								<h5 class="m-t-0">What we did</h5>
+								<h5 class="m-t-0">What I did</h5>
 								<p>We stripped the existing user experiences (UX) down to the bare bones, redesigning the sites’ user architecture to ensure clear and concise sales channels. It was imperative that the user journey allowed for cross-selling, which wasn’t really possible cross-brand before, so this exercise was fundamental in making it possible.</p>
 
 <p>Designing the pages to work with the individual brands; we wanted each brand to have a themed ‘splash page’ which worked as the shop window to the products, was done after live wireframes of the page structures was completed. We then continued to design a new single page checkout procedure, which simplified and streamlined the UX, reducing the checkout drop-outs.</p>

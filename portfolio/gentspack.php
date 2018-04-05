@@ -97,12 +97,12 @@
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
-								<h5 class="m-t-0">Our Brief</h5>
+								<h5 class="m-t-0">My Brief</h5>
 								<p>We were approached to re-design the identity under the new name The Gents Pack, and to make the identity have a sense of belong to a exclusive club.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
-								<h5 class="m-t-0">What we did</h5>
+								<h5 class="m-t-0">What I did</h5>
 								<p>Based around the idea of “the club to join”, we created a identity that reflects the luxury products and lifestyle The Gents Pack provides, whilst giving it a distinctly modern and contemporary feel. The new identity features a contemporary logo, colour palette, typography system and visual DNA visible across marketing materials including advertising, packaging and digital communications. </p>
 <p>The final Deliverables for the project were a set of guidelines, new full logo design and packaging, and further works are planned for through out the year.</p>
 

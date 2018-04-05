@@ -91,13 +91,13 @@
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
-								<h5 class="m-t-0">Our Brief</h5>
+								<h5 class="m-t-0">My Brief</h5>
 								<p>We were asked by Lycamobile to work with them on revitalising their app’s functionality and user interface, for their internal team to build.</p>
 								<p>The app is to give customers access to their mobile accounts quickly and easily, giving them everything they need to know; from how much they’re spending to helpful tips to get the most out of their account and phone.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
-								<h5 class="m-t-0">What we did</h5>
+								<h5 class="m-t-0">What I did</h5>
 								<p>We mapped and designed a simple user experience, with the end objective to deliver an actionable road-map for the user to access the data they need. The use of a simple ‘tap’ interface takes the user through a series of screens, making the experience a smooth and easy one.</p>
 
 <p>The user interface features a flat design using the brands existing identity system based around the use of colour and typeface, with a bespoke icon set.</p>

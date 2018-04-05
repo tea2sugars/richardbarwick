@@ -92,12 +92,12 @@
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
-								<h5 class="m-t-0">Our Brief</h5>
+								<h5 class="m-t-0">My Brief</h5>
 								<p>Marchon approached us to design the creative and roll out collateral for the launch of Nike Sunglasses being available in World Duty Free stores. In conjunction with World Duty Free, they devised a promotion that was to ounce the arrival of Nike’s new summer eyewear collection, offering customers two benefits of this in the form of a exclusive discount and a chance to win a pair of the famed frames.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
-								<h5 class="m-t-0">What we did</h5>
+								<h5 class="m-t-0">What I did</h5>
 								<p>The art direction of the creative had to adhere to Nike's recognisable brand and existing product strap-line “See Sport Better’, taking core elements of typography, colour and their contemporary design systems which communicates their core brand values.</p>
 
 <p>The focus of the promotion was to use the newly released ‘Volt’ range. Various frames from within the seasons collection featuring in Nike’s ‘Volt’ colour. First introduce in 2011, the ‘Volt’ colour (a bright lime) is considered a brand colour has has become synonymous with brand and the swoosh. Volt is a hue that falls into the colour space that is most sensitive to the human eye, so we built a identity system for the campaign around this, giving it a focal and striking position. This was achieved by a ‘less is more’ approach using a two tone colour palette, minimum typeface selection and weight with bold product imagery.</p>
