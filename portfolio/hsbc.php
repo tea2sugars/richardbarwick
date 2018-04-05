@@ -57,7 +57,7 @@
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/5mm_portfolio_03.jpg" alt="5mm Responsive Website Design"></p>
+						<p><img src="../assets/images/projects/hsbc_portfolio_01.jpg" alt="HSBC Brand and UX/UI Art Direction"></p>
 					</div>
 				</div>
 
@@ -118,25 +118,6 @@
 		</section>
 		<!-- /PORTFOLIO DESCRIPTION -->
 
-		<!-- PORTFOLIO CONTENT -->
-		<section class="module p-t-0 p-b-0">
-
-			<div class="container">
-
-				<div class="row">
-
-					<!--<div class="col-sm-12">-->
-						<div class="col-sm-8 col-sm-offset-4">
-
-						<p><img src="../assets/images/projects/hsbc_portfolio_01.jpg" alt="HSBC"></p>
-						</div>
-
-				</div><!-- .row -->
-
-			</div>
-
-		</section>
-		<!-- /PORTFOLIO CONTENT -->
 
 		<?php include('../assets/php/includes/portfolio-pagination.html');?>
 		
