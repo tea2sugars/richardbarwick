@@ -73,6 +73,22 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 			<ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
 				
 				<!-- PORTFOLIO ITEM -->
+				<li class="work-item branding artdirection">
+					<a href="hartestbrewingco">
+						<div class="work-image">
+							<img src="../assets/images/projects/hbc_portfolio_thumbnail.jpg" alt="Hartest Brewing Co"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Hartest Brewing Co</h3>
+							<div class="work-descr ">
+								Branding and Beer Label Design
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				
+				<!-- PORTFOLIO ITEM -->
 				<li class="work-item digital ux branding artdirection">
 					<a href="hsbc">
 						<div class="work-image">

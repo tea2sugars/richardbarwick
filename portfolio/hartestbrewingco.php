@@ -16,7 +16,7 @@
 
 
 	<!-- HOME -->
-	<section class="module module-header bg-dark bg-dark-70" data-background="../assets/images/projects/5mm_general_header.jpg">
+	<section class="module module-header bg-dark bg-dark-70" data-background="../assets/images/projects/hbc_general_header.jpg">
 
 			<div class="container">
 
@@ -25,8 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">5mm Interior Design Responsive Website design<br/><span class="small">Using the browser as a tool to deliver stunning imagery</span></h1>
-
+						<h1 class="module-title align-center">Hartest Brewing Co<br/><span class="small">Branding a new micro-brewery</span></h1>
 
 					</div>
 
@@ -67,9 +66,8 @@
 					<div class="col-md-4">
 						<div class="work-details">
 							<ul>
-								<li><strong>Client: </strong>5mm</li>
-								<li><strong>Project: </strong>Responsive Website Design & Development, Bootstrap, Perch CMS</li>
-								<li><strong>Online: </strong><a href="http://www.5mm.co" target="_blank">www.5mm.co</a></li>
+								<li><strong>Client: </strong>Hartest Brewing Co</li>
+								<li><strong>Project: </strong>Branding and Bottle Label Design</li>
 								<li><strong>Budget: </strong>££££</li>
 								<!--<li><strong>Testimonial: </strong>
 									<br/>
@@ -87,19 +85,24 @@
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">History</h5>
-								<p>5mm is a London-based but globally minded high end residential interiors design consultancy</p>
+								<p>Hartest Brewing Co is a part-time micro brewery project that's looking to do good from drinking quality beer.</p>
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">My Brief</h5>
-								<p>Our brief was to re-design 5mm's website to help them show off key projects and their fabulous photography.</p>
+								<p>To design a classical brand and bottle label</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
-								<h5 class="m-t-0">What I did</h5>
-								<p>We were under quite a tight budget and deadline for this project, so we stepped up to the challenge and opted to build 5mm a website using Twitter Bootstrap, which enabled us to efficiently build and design an elegant website around the framework.</p>
-								<p>We opted to use full-screen, scalable imagery for the clients photography to really help show off their work in the browser. The website is a means of serving this content and we didn't want the website to draw attention away from our clients amazing portfolio.</p>
-								<p>The website scales gracefully across different devices ensuring the content looks beautiful wherever their users happen to be.</p>
+								<h5 class="m-t-0">The Brand</h5>
+								<p>The current craft beer and cider market is a very bloated place. Dominated by brands adopting a very bold illustrative designs. As a co-founder of the brewery I was put in charge of designing our brand. We wanted our brand to stand out from competitors with our product story and philosophy being the core attraction - not just the label.</p>
+								<p>Whilst our brand needed to stand out on the shelves we had a lot of noisy brands to compete with. Instead of fighting for attention with shocking graphics, quirky names and hard marketing I stripped things back which did the job.</p>
+								<p>I am a huge fan of classical design before trends as classical lasts. Hartest Brewing Co's branding uses a modern font chosen because the 'w' nods towards one of the co-owners pride and joy, his classic VW Camper van. The stag is the symbol of Hartest village which again is a nod to a local custom.</p>
+								<h5 class="m-t-0">The Label</h5>
+								<p>When we were developing the product we trialed our beers with a community of locals. We blind-tasted the beers using different coloured bottle caps as tokens. The feedback was all really good but what became apparent weeks later is how people remembered the beer by the cap colour; "I liked the black one", etc. This gave us an idea of keeping this flowing throughout the branding, we toyed with no labels what-so-ever but we needed legal information included. We tried a pic of a bottle cap and naming them all "The red one" etc but this felt impersonal. Finally, we decided upon a logo that is supported by a coloured brand bar and a matching cap.</p>
+								<p>The cap gives retailers an easy reference when dealing with mixed cases and the colours are easier to remember that the individual names. Something that has not been lost with customers and retailers.</p>
+								<h5 class="m-t-0">The Future</h5>
+								<p>I am now working with the brand to produce apparel and marketing materials whilst also brewing beer and expanding our offerings.</p>
 								<?php include('../assets/php/includes/portfolio-cta.html');?>
 								
 							</div>
