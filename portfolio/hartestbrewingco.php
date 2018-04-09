@@ -57,7 +57,7 @@
 				<div class="row">
 					<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/5mm_portfolio_03.jpg" alt="5mm Responsive Website Design"></p>
+						<p><img src="../assets/images/projects/hbc_portfolio_01.jpg" alt="Hartest Brewing Co Branding"></p>
 					</div>
 				</div>
 
@@ -124,10 +124,8 @@
 
 					<!--<div class="col-sm-12">-->
 						<div class="col-sm-8 col-sm-offset-4">
-
-						<p><img src="../assets/images/projects/5mm_portfolio_01.jpg" alt="5mm Mobile Website"></p>
-						<p><img src="../assets/images/projects/5mm_portfolio_05.jpg" alt="5mm Desktop Website"></p>
-						<p><img src="../assets/images/projects/5mm_portfolio_02.jpg" alt="5mm Portfolio Website"></p>
+						<p><img src="../assets/images/projects/hbc_portfolio_02.jpg" alt="Hartest Brewing Co Beer Bottles"></p>
+						<p><img src="../assets/images/projects/hbc_portfolio_03.jpg" alt="Hartest Brewing Co Bottle Labels"></p>
 						</div>
 
 				</div><!-- .row -->
