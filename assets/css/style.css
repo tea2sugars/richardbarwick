@@ -599,8 +599,8 @@ blockquote {
 	background-size: cover;
 }
 
-.module-hero a {
-	color: white;
+.module-hero a:link {
+	color: white !important;
 }
 
 .hs-title-size-1 {
