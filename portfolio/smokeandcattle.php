@@ -6,7 +6,7 @@
 	<meta name="description" content="Rik Barwick worked with 5mm Interior Design Consultants to design them a responsive website with full-screen images to help showcase their portfolio">
 	<meta name="author" content="">
 	
-	<title>Kitchenology | Website Design | Rik Barwick Freelance Website Designer, Suffolk</title>
+	<title>Smoke &amp; Cattle BBQ Catering | Website and Brand Design by Rik Barwick, Freelance Website Designer, Suffolk</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>
@@ -16,7 +16,7 @@
 
 
 	<!-- HOME -->
-	<section class="module module-header bg-dark bg-dark-70" data-background="../assets/images/projects/kitchenology_general_header.jpg">
+	<section class="module module-header bg-dark bg-dark-70" data-background="../assets/images/projects/sandm_general_header.jpg">
 
 			<div class="container">
 
@@ -25,7 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">Kitchenology Responsive Website Design<br/><span class="small">Exploring shapes and the use of white space to compliment the client's work</span></h1>
+						<h1 class="module-title align-center">Smoke + Cattle BBQ Caterers<br/><span class="small">Branding and Website Design</span></h1>
 
 
 					</div>
@@ -125,7 +125,7 @@
 					<!--<div class="col-sm-12">-->
 						<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/kitchenology_portfolio_01.jpg" alt="Kitchenology Website"><br/><span style="background-color:#eaeaea; color:#111; display:block; padding:5px;">Floating Navigation sticks to right hand side of browser and floats outside of the grid system.</span></p>
+						<p><img src="../assets/images/projects/sandm_portfolio_01.jpg" alt="Kitchenology Website"></p>
 						<p><img src="../assets/images/projects/5mm_portfolio_05.jpg" alt="5mm Desktop Website"></p>
 						<p><img src="../assets/images/projects/5mm_portfolio_02.jpg" alt="5mm Portfolio Website"></p>
 						</div>

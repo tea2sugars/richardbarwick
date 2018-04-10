@@ -8,7 +8,7 @@
     <meta content="Award-winning Digital Consultant working with clients to deliver Digital Projects great and small" name="description">
     <meta name="keywords" content="digital agency, digital design, freelance digital designer, brand agency, digital marketing, print design, Ibsite design, drupal development, UX design, strategic digital agency, brand design agency, creative agency">
 
-    <title>Rik Barwick - Freelance Digital Consultant, Digital Designer, UX/UI Designer and Digital Lead | London & Suffolk</title>
+    <title>Rik Barwick - Freelance Digital Designer specialising in UI Design and Brand | London &amp; Suffolk</title>
     <?php include('assets/php/includes/head-css.html');?>
         <!-- Facebook Conversion Code for Key Page Views – Rik Barwick 1 -->
 
@@ -43,13 +43,16 @@
                         <h1>
 	                        <span class="yellow">–</span><br>
 		                    Freelance Digital Designer<br/>
-		                    <small>I'm a Suffolk-based Digital Designer working on UI and Front-end Development.<br/>I design. I code. I think &amp; I make things work.<br/></small>
+		                    <small>I'm a Suffolk based Designer working on UI Design and Branding for clients around the globe.<br/>I design. I code. I do.<br/></small>
 		                    <span class="yellow">–</span>
 		                </h1>
 		                
 			            <a class="btn btn-y btn-round btn-lg" href="portfolio">View my portfolio</a>
 			             
                         
+                    </div>
+                    <div class="col-md-7 col-md-offset-1 col-lg-6 col-lg-offset-1" style="margin-top:100px;">
+	                    <p style="font-size:11px;">Photo Credit: Simon.<br/>Taken at Do Lectures 2015</p>
                     </div>
 
 				</div>
@@ -61,14 +64,14 @@
                 <div class="container">
 		            <div class="row">
 		                <div class="col-sm-3 col-sm-offset-1 align-right">
-		                    <h3>My Services</h3>
+		                    <h3>My Design Services</h3>
 		                </div>
 		            
 		                <div class="col-sm-6">
 		                    <p class="lead"><span class="yellow">–</span>
-		                        <br>I'm an award-winning digital design consultant who believes that great design can provoke change for my clients and in-turn the world.	
+		                        <br>I'm an award-winning designer who believes that great classic design can provoke change and outlive trends.	
 		                    </p>
-		                    <p class="lead">I help get clients get noticed and grow by getting to know their culture and celebrating what makes them great. I then translate this into their work across their digital channels and help deliver against their KPI's.</p>
+		                    <p class="lead">I help get clients get noticed and grow by getting to know their culture and celebrating what makes them great. I then translate this into their work and help deliver against their KPI's.</p>
 		                    <p class="lead">I am independent, flexible and hungry to work for clients of all shapes and sizes. Here are some examples of my work.
 			                    <br/>
 			                    <span class="yellow">–</span>
@@ -171,7 +174,7 @@
 						<div class="work-caption">
 							<h3 class="work-title ">Maxishop.com</h3>
 							<div class="work-descr ">
-								Ecommerce UX & Information Architecture
+								E-commerce UX & Information Architecture
 							</div>
 						</div>
 					</a>
