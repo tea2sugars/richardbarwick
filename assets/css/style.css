@@ -605,7 +605,7 @@ blockquote {
 @media (min-width: 768px) {
 		#photo-credit {
 		display:inherit;
-		margin: 100px 0 0 0;
+		margin-top: 100px;
 	}
 }
 
