@@ -24,46 +24,12 @@
 
 	<!-- WRAPPER -->
 	<div class="wrapper">
-
 		
-
-		<!-- BLOG SINGLE -->
-		<section class="module">
-
-			<div class="container">
-
-				<div class="row">
-
-					<div class="col-sm-8 col-sm-offset-2">
-						<h1>Creative design solutions for clients of all shapes and sizes</h1>
-						<!-- POST -->
-						<div class="post">
-
-							<article class="post-entry">
-
-								<p class="lead">I have had the pleasure of working with some great
-brands, organisations and people from all over the world.</p>
-
-							</article>
-							
-						</div>
-						<!-- /POST -->
-
-					</div>
-
-				</div>
-				
-				
-			</div>
-
-		</section>
-		<!-- /BLOG SINGLE -->
-		
-		<section id="industries" class="module-small dark-section">
+		<section id="industries" class="module-small">
 			<div class="container ">
 				<div class="row">
-					<h2 class="text-center">Industry Experience</h2>
-					<p class="text-center lead">Over the years I've had the pleasure in working with clients on rosters, retainers & individual projects.</p>
+					<h2 class="text-center">My Industry Experience</h2>
+					<p class="text-center lead">Over the years I've had the pleasure in working with clients on rosters, retainers &amp; individual projects.</p>
 				</div>
 				<div class="row">
 					<article class="col-sm-3 m-b-10">
