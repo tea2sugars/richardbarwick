@@ -52,7 +52,7 @@
                         
                     </div>
                     <div class="col-md-7 col-md-offset-1 col-lg-6 col-lg-offset-1" style="margin-top:100px;">
-	                    <p style="font-size:11px;">Photo Credit: Simon.<br/>Taken at Do Lectures 2015</p>
+	                    <p style="font-size:11px;">Photo Credit: <a href="https://www.instagram.com/i_am_mr_sedders/" target="_blank">Simon Edwards.</a><br/>Taken at Do Lectures 2015</p>
                     </div>
 
 				</div>
