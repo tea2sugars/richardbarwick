@@ -171,7 +171,7 @@
 			</div>
 			
 		</section>
-		
+		<?php include('assets/php/includes/testimonial.html');?>
 		<!-- DIVIDER -->
 		<hr class="divider-w">
 		<!-- /DIVIDER -->
