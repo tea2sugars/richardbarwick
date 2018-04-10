@@ -599,6 +599,17 @@ blockquote {
 	background-size: cover;
 }
 
+#photo-credit {
+	display:none;
+}
+@media (min-width: 768px) {
+		#photo-credit {
+		display:inherit;
+		margin: 100px 0 0 0;
+	}
+}
+
+
 .module-hero a {
 	color: white;
 }
