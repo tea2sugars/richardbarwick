@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Over the years Creativitea has built itself a prestigious client list from a diverse range of sectors and industries. Not only in London nor the UK but all over the world">
+	<meta name="description" content="Rik Barwick's career has given me the privilidge in working for some of the world's leading brands. From Fintech, Startups, Retail and Entertainment.">
 	<meta name="author" content="">
 	
 	<title>Client Roster & Industry Experience | Rik Barwick </title>
