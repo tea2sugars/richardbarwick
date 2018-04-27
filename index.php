@@ -43,7 +43,7 @@
                         <h1>
 	                        <span class="yellow">–</span><br>
 		                    Freelance Digital Designer<br/>
-		                    <small>I'm a Suffolk based Designer working on UI Design and Branding for clients around the globe.<br/>I design. I code. I do.<br/></small>
+		                    <small>I'm an experienced Designer working on UI Design and Branding for clients around the globe.<br/>I design. I code. I do.<br/></small>
 		                    <span class="yellow">–</span>
 		                </h1>
 		                
