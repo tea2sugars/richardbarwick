@@ -53,7 +53,6 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 							<li><a href="#" data-filter=".digital" class="wow fadeInUp" data-wow-delay="0.2s">UI Design</a></li>
 							<li><a href="#" data-filter=".artdirection" class="wow fadeInUp" data-wow-delay="0.2s">Art Direction</a></li>
 							<li><a href="#" data-filter=".branding" class="wow fadeInUp" data-wow-delay="0.2s">Branding</a></li>
-							<li><a href="#" data-filter=".dev" class="wow fadeInUp" data-wow-delay="0.2s">Development</a></li>
 							<!--<li><a href="#" data-filter="*" class="current wow fadeInUp">All</a></li>
 							<li><a href="#" data-filter=".artdirection" class="wow fadeInUp" data-wow-delay="0.2s">Art Direction</a></li>
 							<li><a href="#" data-filter=".branding" class="wow fadeInUp" data-wow-delay="0.2s">Branding</a></li>
@@ -71,6 +70,22 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 
 			<!-- PORTFOLIO LIST -->
 			<ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
+				
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item branding artdirection">
+					<a href="hartestbrewingco">
+						<div class="work-image">
+							<img src="../assets/images/projects/hallst_portfolio_thumbnail.png" alt="Hall Street"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Hall Street</h3>
+							<div class="work-descr ">
+								Responsive Website Design
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
 				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding artdirection">

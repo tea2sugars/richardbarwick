@@ -62,7 +62,7 @@
 						<div class="work-details">
 							<ul>
 								<li><strong>Client: </strong>Hall Street</li>
-								<li><strong>Project: </strong>Responsive Website Design & Development, WordPress Theme</li>
+								<li><strong>Project: </strong>Responsive Website Design & Development, Perch CMS</li>
 								<li><strong>Online: </strong><a href="https://www.hall-street.co.uk" target="_blank">www.hall-street.co.uk</a></li>
 								<li><strong>Budget: </strong>££££</li>
 								<li><strong>Testimonial: </strong>
@@ -81,20 +81,28 @@
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">History</h5>
-								<p>5mm is a London-based but globally minded high end residential interiors design consultancy</p>
+								<p>Hall Street is an independent traditional “bricks and mortar” retailer based in Suffolk</p>
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">My Brief</h5>
-								<p>Our brief was to re-design 5mm's website to help them show off key projects and their fabulous photography.</p>
+								<p>My brief was to re-design Hall Street's existing website and introduce a new CMS</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
 								<h5 class="m-t-0">What I did</h5>
-								<p>We were under quite a tight budget and deadline for this project, so we stepped up to the challenge and opted to build 5mm a website using Twitter Bootstrap, which enabled us to efficiently build and design an elegant website around the framework.</p>
-								<p>We opted to use full-screen, scalable imagery for the clients photography to really help show off their work in the browser. The website is a means of serving this content and we didn't want the website to draw attention away from our clients amazing portfolio.</p>
-								<p>The website scales gracefully across different devices ensuring the content looks beautiful wherever their users happen to be.</p>
+								<p>Hall Street's cliental enjoy visiting their "bricks and mortar" stores as it gives them a unique shopping experience online shopping doesn't give. The whole experience is very tailored - from relaxing in a leather armchair enjoying a coffee or perusing the new selection of designer shirts.</p>
+								<p>The website was to become a hub of information about what the store has in stock and any new collections that may be arriving. It needed to be easily updated, responsive and look as elegant as the clothing Hall Street sell.</p>
 								
+								<p>I opted for a very clean User Interface taking inspiration from High-end fashion and men's magazines which gave the images room to be the main attraction. This site is all about imagery and lifestyle so i didn't want to UI to be clunky and in the way.</p>
+								
+								<p>The CMS of choice was Perch. Perch is a small and nimble CMS which allowed me to rapidly build out pages in HTML/CSS and add the editable regions where needed.</p>
+								
+							</div>
+							
+							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
+								<h5 class="m-t-0">Results</h5>
+								<p>Once the site was launched we saw a steady increase in traffic to the site with a noticeable increase as months went by in people visiting the stores enquiring about things they've seen in the blog. We didn't set out to develop another e-commerce store and the customers continue to enjoy the overall retail experience offered at Hall Street, Suffolk.</p>
 								
 							</div>
 
