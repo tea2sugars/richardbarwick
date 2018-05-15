@@ -120,10 +120,9 @@
 
 					<!--<div class="col-sm-12">-->
 						<div class="col-sm-8 col-sm-offset-4">
-							<p><img src="../assets/images/projects/Buyapowa_SAAS_portfolio_02.jpg" alt="Buyapowa Website"></p>
+							<p><img src="../assets/images/projects/Buyapowa_SAAS_portfolio-new.jpg" alt="Buyapowa Website"></p>
+							<p><img src="../assets/images/projects/Buyapowa_SAAS_portfolio_04-new.jpg" alt="Buyapowa Website"></p>
 							<p><img src="../assets/images/projects/Buyapowa_SAAS_portfolio_03.jpg" alt="Buyapowa Website"></p>
-							<p><img src="../assets/images/projects/Buyapowa_SAAS_portfolio_04.jpg" alt="Buyapowa Website"></p>
-							<p><img src="../assets/images/projects/Buyapowa_SAAS_portfolio_05.jpg" alt="Buyapowa Website"></p>
 						</div>
 
 				</div><!-- .row -->

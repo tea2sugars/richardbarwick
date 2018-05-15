@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Rik Barwick worked with 5mm Interior Design Consultants to design them a responsive website with full-screen images to help showcase their portfolio">
+	<meta name="description" content="Rik Barwick worked with Fellowship Productions and Kitchenology to design a high-end responsive website to help showcase their portfolio">
 	<meta name="author" content="">
 	
 	<title>Kitchenology | Website Design | Rik Barwick Freelance Website Designer, Suffolk</title>

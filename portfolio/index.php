@@ -73,7 +73,7 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding artdirection">
-					<a href="hartestbrewingco">
+					<a href="hallstreet">
 						<div class="work-image">
 							<img src="../assets/images/projects/hallst_portfolio_thumbnail.png" alt="Hall Street"/>
 						</div>
