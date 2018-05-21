@@ -1,4 +1,4 @@
-@import  slider.css;
+	@import  slider.css;
 @import  vertical.css;
 html {
 	overflow-y: scroll;
@@ -8,7 +8,7 @@ html {
 
 body {
 	background: #fff;
-	font: 400 12px/1.8 helvetica, arial, sans-serif;
+	font: 400 12px/1.8 'Open Sans', helvetica, arial, sans-serif;
 	color: rgba(0,0,0,0.87);
 	-webkit-font-smoothing: antialiased;
 }
@@ -411,11 +411,14 @@ a:hover,a:focus {
 	color: #fff;
 	text-decoration: underline;
 }
+h1,h2 {
+	font-family: 'Lora', serif;
+}
 
-h1,h2,h3,h4,h5,h6 {
+h3,h4,h5,h6 {
 	line-height: 1.4;
 	font-weight: 500;
-	font-family: helvetica, arial, sans-serif;
+	font-family: 'open-sans', helvetica, arial, sans-serif;
 	font-style: normal;
 	font-weight: 700;
 }
@@ -426,13 +429,13 @@ p,ol,ul,blockquote {
 
 blockquote {
 	border: 0;
-	font-family: helvetica, arial, sans-serif;	font-weight: 700;
+	font-family: 'open-sans', helvetica, arial, sans-serif;	font-weight: 700;
 	font-size: 14px;
 	padding: 0;
 }
 
 .font-alt {
-	font-family: helvetica, arial, sans-serif;
+	font-family: 'open-sans', helvetica, arial, sans-serif;
 	text-transform: uppercase;
 	letter-spacing: .1em;
 	font-weight: 400;
@@ -445,7 +448,7 @@ blockquote {
 }
 
 .font-serif {
-	font-family: helvetica, arial, sans-serif;
+	font-family: 'open-sans', helvetica, arial, sans-serif;
 	font-weight: 400;
 }
 
@@ -488,7 +491,7 @@ blockquote {
 	border-color: #f5f5f5 !important;
 	border-bottom: 1px solid #f5f5f5 !important;
 	border-radius: 0;
-	font-family: helvetica, arial, sans-serif;
+	font-family: 'open-sans', helvetica, arial, sans-serif;
 	font-size: 13px;
 	font-weight: 700;
 	letter-spacing: .15em;
@@ -513,8 +516,7 @@ blockquote {
 }
 
 .navbar-custom .navbar-brand {
-	font-family: helvetica, arial, sans-serif;
-	letter-spacing: .07em;
+	font-family: 'Lora', serif;
 	font-weight: 500;
 	font-size: 24px;
 	color: #000;

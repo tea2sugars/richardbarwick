@@ -10,27 +10,6 @@
 
     <title>Rik Barwick - Freelance Digital Designer specialising in UI Design and Brand | London &amp; Suffolk</title>
     <?php include('assets/php/includes/head-css.html');?>
-        <!-- Facebook Conversion Code for Key Page Views – Rik Barwick 1 -->
-
-        <script>
-            (function() {
-                var _fbq = window._fbq || (window._fbq = []);
-                if (!_fbq.loaded) {
-                    var fbds = document.createElement('script');
-                    fbds.async = true;
-                    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-                    var s = document.getElementsByTagName('script')[0];
-                    s.parentNode.insertBefore(fbds, s);
-                    _fbq.loaded = true;
-                }
-            })();
-            window._fbq = window._fbq || [];
-            window._fbq.push(['track', '6038156343123', {
-                'value': '0.01',
-                'currency': 'GBP'
-            }]);
-        </script>
-        <noscript><img alt="" height="1" src="https://www.facebook.com/tr?ev=6038156343123&amp;cd[value]=0.01&amp;cd[currency]=GBP&amp;noscript=1" style="display:none" width="1"></noscript>
 </head>
 
 <body>
