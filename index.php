@@ -175,21 +175,20 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->				
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item artdirection">
-					<a href="portfolio/trion-worlds-end-of-nations">
+				<li class="work-item digital ux">
+					<a href="5mm">
 						<div class="work-image">
-							<img src="../assets/images/projects/EON_portfolio_thumbnail.jpg" alt="End of Nations Campaign">
+							<img src="../assets/images/projects/5mm_portfolio_thumbnail.jpg" alt="5mm Interior Design Website Design"/>
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">End of Nations</h3>
+							<h3 class="work-title ">5mm.co</h3>
 							<div class="work-descr ">
-								Marketing Campaign Work
+								Responsive Website Design
 							</div>
 						</div>
 					</a>
 				</li>
-				<!-- /PORTFOLIO ITEM -->
-				
+				<!-- /PORTFOLIO ITEM -->				
 
                         </ul>
                     </div>
