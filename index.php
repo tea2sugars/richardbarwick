@@ -26,7 +26,7 @@
 		                    <span class="yellow">–</span>
 		                </h1>
 		                
-			            <a class="btn btn-y btn-round btn-lg" href="portfolio">View my portfolio</a>			             
+			            <a class="btn btn-y btn-round btn-lg" href="portfolio">View my portfolio</a> &nbsp; <a class="btn btn-y btn-round btn-lg" href="https://drive.google.com/file/d/14r9MMkP9JUI54rt05Q66d0I2ISRt7b2E/view?usp=sharing">Download my CV</a>		             
                         
                     </div>
                     <div class="col-md-7 col-md-offset-1 col-lg-6 col-lg-offset-1" id="photo-credit">
