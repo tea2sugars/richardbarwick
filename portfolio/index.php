@@ -56,7 +56,7 @@
 			<ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
 				
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item branding artdirection">
+				<li class="work-item digital">
 					<a href="hallstreet">
 						<div class="work-image">
 							<img src="../assets/images/projects/hallst_portfolio_thumbnail.png" alt="Hall Street"/>

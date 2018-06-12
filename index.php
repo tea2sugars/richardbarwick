@@ -64,6 +64,22 @@
                         <ul class="works-grid works-grid-4 works-hover-w" id="works-grid">
 	                        
 	                        <!-- PORTFOLIO ITEM -->
+							<li class="work-item digital">
+								<a href="hallstreet">
+									<div class="work-image">
+										<img src="../assets/images/projects/hallst_portfolio_thumbnail.png" alt="Hall Street"/>
+									</div>
+									<div class="work-caption">
+										<h3 class="work-title ">Hall Street</h3>
+										<div class="work-descr ">
+											Responsive Website Design
+										</div>
+									</div>
+								</a>
+							</li>
+							<!-- /PORTFOLIO ITEM -->
+	                        
+	                        <!-- PORTFOLIO ITEM -->
 							<li class="work-item digital ux dev">
 								<a href="portfolio/salute">
 									<div class="work-image">
@@ -144,20 +160,20 @@
 				<!-- /PORTFOLIO ITEM -->
 				
 				<!-- PORTFOLIO ITEM -->
-				<li class="work-item digital branding">
-					<a href="portfolio/maxishop">
+				<li class="work-item branding artdirection">
+					<a href="hartestbrewingco">
 						<div class="work-image">
-							<img src="../assets/images/projects/maxishop_portfolio_thumbnail.jpg" alt="Maxishop Branding and E-Commerce">
+							<img src="../assets/images/projects/hbc_portfolio_thumbnail.jpg" alt="Hartest Brewing Co"/>
 						</div>
 						<div class="work-caption">
-							<h3 class="work-title ">Maxishop.com</h3>
+							<h3 class="work-title ">Hartest Brewing Co</h3>
 							<div class="work-descr ">
-								E-commerce UX & Information Architecture
+								Branding and Beer Label Design
 							</div>
 						</div>
 					</a>
 				</li>
-				<!-- /PORTFOLIO ITEM -->
+				<!-- /PORTFOLIO ITEM -->				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item artdirection">
 					<a href="portfolio/trion-worlds-end-of-nations">
@@ -173,22 +189,7 @@
 					</a>
 				</li>
 				<!-- /PORTFOLIO ITEM -->
-				<!-- PORTFOLIO ITEM -->
-				<li class="work-item digital">
-					<a href="portfolio/lycamobile-app">
-						<div class="work-image">
-							<img src="../assets/images/projects/Lyca_portfolio_thumbnail.jpg" alt="Lycamobile Customer service App">
-						</div>
-						<div class="work-caption">
-							<h3 class="work-title ">Lycamobile Customer Services App</h3>
-							<div class="work-descr ">
-								App UX & UI design
-							</div>
-						</div>
-					</a>
-				</li>
-				<!-- /PORTFOLIO ITEM -->
-
+				
 
                         </ul>
                     </div>
