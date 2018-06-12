@@ -3,11 +3,11 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Creative Portfolio for Brand, Digital and Print Agency Creativitea">
-	<meta name="author" content="Creativitea">
+	<meta name="description" content="Rik Barwick's Digital Portfolio">
+	<meta name="author" content="Rik Barwick">
 	
 	
-	<title>Rik Barwick's Portfolio | Freelance Digital Consultant, UX and UI Design | London, Surrey, Suffolk</title>
+	<title>Rik Barwick's Portfolio | Freelance Digital Consultant, UX and UI Design | London and Suffolk</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 

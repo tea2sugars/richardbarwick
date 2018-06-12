@@ -5,8 +5,8 @@
 <head>
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Award-winning Digital Consultant working with clients to deliver Digital Projects great and small" name="description">
-    <meta name="keywords" content="digital agency, digital design, freelance digital designer, brand agency, digital marketing, print design, Ibsite design, drupal development, UX design, strategic digital agency, brand design agency, creative agency">
+    <meta content="Freelance Digital Designer specialising in UI Design and Brand" name="description">
+    <meta name="keywords" content="UI Designer, UX Designer, Web Design, Website Design, Digital Agency, Lean Digital Agency, Remote Designer, Senior Designer, Freelance">
 
     <title>Rik Barwick - Freelance Digital Designer specialising in UI Design and Brand | London &amp; Suffolk</title>
     <?php include('assets/php/includes/head-css.html');?>
@@ -22,12 +22,11 @@
                         <h1>
 	                        <span class="yellow">–</span><br>
 		                    Freelance Digital Designer<br/>
-		                    <small>I'm an experienced designer working on UI Design and Branding for clients around the globe.<br/>I design. I code. I do.<br/></small>
+		                    <small>I'm an experienced UX/UI Designer working for clients around the globe.<br/>I design. I code. I do.<br/></small>
 		                    <span class="yellow">–</span>
 		                </h1>
 		                
-			            <a class="btn btn-y btn-round btn-lg" href="portfolio">View my portfolio</a>
-			             
+			            <a class="btn btn-y btn-round btn-lg" href="portfolio">View my portfolio</a>			             
                         
                     </div>
                     <div class="col-md-7 col-md-offset-1 col-lg-6 col-lg-offset-1" id="photo-credit">
