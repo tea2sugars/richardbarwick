@@ -63,6 +63,22 @@
                     <div class="row">
                         <ul class="works-grid works-grid-4 works-hover-w" id="works-grid">
 	                        
+	                        	<!-- PORTFOLIO ITEM -->
+						<li class="work-item digital">
+							<a href="portfolio/hsbc">
+								<div class="work-image">
+									<img src="../assets/images/projects/hsbc_portfolio_thumbnail.jpg" alt="HSBC Bank"/>
+								</div>
+								<div class="work-caption">
+									<h3 class="work-title ">HSBC</h3>
+									<div class="work-descr ">
+										Art Direction
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- /PORTFOLIO ITEM -->
+	                        
 	                        <!-- PORTFOLIO ITEM -->
 							<li class="work-item digital">
 								<a href="hallstreet">
@@ -127,21 +143,7 @@
                                     </div>
                                 </a>
                             </li>
-		<!-- PORTFOLIO ITEM -->
-						<li class="work-item digital">
-							<a href="portfolio/hsbc">
-								<div class="work-image">
-									<img src="../assets/images/projects/hsbc_portfolio_thumbnail.jpg" alt="HSBC Bank"/>
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">HSBC</h3>
-									<div class="work-descr ">
-										Art Direction
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
+						
 						
 						<!-- PORTFOLIO ITEM -->
 				<li class="work-item artdirection">
