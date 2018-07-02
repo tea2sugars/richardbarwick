@@ -53,13 +53,7 @@
 					</div>
 				</div>-->
 				
-				<!-- PORTFOLIO KEY IMAGE -->
-				<div class="row">
-					<div class="col-sm-8 col-sm-offset-4">
-
-						<p><img src="../assets/images/projects/5mm_portfolio_03.jpg" alt="5mm Responsive Website Design"></p>
-					</div>
-				</div>
+				
 
 				<!-- PORTFOLIO DESCRIPTION -->
 				<div class="row m-t-70">
@@ -87,19 +81,20 @@
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">History</h5>
-								<p>5mm is a London-based but globally minded high end residential interiors design consultancy</p>
+								<p>Kitchenology are based in Bury St Edmunds, Suffolk and provide high-end interior design and fitting solutions for kitchen spaces.</p>
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">My Brief</h5>
-								<p>Our brief was to re-design 5mm's website to help them show off key projects and their fabulous photography.</p>
+								<p>My brief was to re-design the digital space for Kitchenology. I provided the basic level of User Experience Design (UX) then designed the User Interface (UI). I also worked with the developers to code the website using a bespoke WordPress theme.</p>
 							</div>
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
 								<h5 class="m-t-0">What I did</h5>
 								<p>I worked with Fellowship Productions and Kitchenology Ltd to design a high-end responsive website to showcase the clients design portfolio to an exclusive target audience.</p>
-								<p>I was responsible for ensuring this website had as much ‘craft’ as the clients kitchens and the site represented their brand effectively. I concentrated on unusual grid layouts, clean lines and typography which all allowed the clients photography to sing and stand out.</p>
-								<p>The results are stunning; The site a thing of beauty and it immediately contributed in an uptake in sales enquiries so much so that ALNO the high-end German kitchen brand have asked us to produce a site for their UK importers.</p>
+								<p>Kitchenology transform tired kitchens into exceptional spaces. I was responsible for ensuring this website had as much ‘craft’ as the clients kitchens and the site represented their brand effectively. I concentrated on unusual grid layouts, clean lines and typography which all allowed the clients photography to sing and stand out.</p>
+								<p>We had an amazing pool of talent available to build this website and due to the strength of the partnership with Fellowships senior branding and dev teams I was able to ensure the site was a thing of beauty.</p>
+								<p>The new site immediately contributed in an uptake in sales enquiries. So much so that one of the client's suppliers 'ALNO' - the high-end German kitchen brand have asked us to produce a site for their UK importers which we hope to launch Summer 2018.</p>
 								<?php include('../assets/php/includes/portfolio-cta.html');?>
 								
 							</div>
