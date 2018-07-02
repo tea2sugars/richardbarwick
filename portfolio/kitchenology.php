@@ -100,6 +100,16 @@
 							</div>
 
 						</div>
+						<div class="row" style="margin-top:20px;">
+
+						<!--<div class="col-sm-12">-->
+							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
+	
+							<p><img src="../assets/images/projects/kitchenology_portfolio_01.jpg" alt="Kitchenology Website"></p>
+							
+							</div>
+
+						</div><!-- .row -->
 
 					</div>
 
@@ -110,26 +120,7 @@
 		</section>
 		<!-- /PORTFOLIO DESCRIPTION -->
 
-		<!-- PORTFOLIO CONTENT -->
-		<section class="module p-t-0 p-b-0">
-
-			<div class="container">
-
-				<div class="row">
-
-					<!--<div class="col-sm-12">-->
-						<div class="col-sm-8 col-sm-offset-4">
-
-						<p><img src="../assets/images/projects/kitchenology_portfolio_01.jpg" alt="Kitchenology Website"></p>
-						
-						</div>
-
-				</div><!-- .row -->
-
-			</div>
-
-		</section>
-		<!-- /PORTFOLIO CONTENT -->
+		
 
 		<?php include('../assets/php/includes/portfolio-pagination.html');?>
 		
