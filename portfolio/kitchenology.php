@@ -97,9 +97,9 @@
 														
 							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
 								<h5 class="m-t-0">What I did</h5>
-								<p>We were under quite a tight budget and deadline for this project, so we stepped up to the challenge and opted to build 5mm a website using Twitter Bootstrap, which enabled us to efficiently build and design an elegant website around the framework.</p>
-								<p>We opted to use full-screen, scalable imagery for the clients photography to really help show off their work in the browser. The website is a means of serving this content and we didn't want the website to draw attention away from our clients amazing portfolio.</p>
-								<p>The website scales gracefully across different devices ensuring the content looks beautiful wherever their users happen to be.</p>
+								<p>I worked with Fellowship Productions and Kitchenology Ltd to design a high-end responsive website to showcase the clients design portfolio to an exclusive target audience.</p>
+								<p>I was responsible for ensuring this website had as much ‘craft’ as the clients kitchens and the site represented their brand effectively. I concentrated on unusual grid layouts, clean lines and typography which all allowed the clients photography to sing and stand out.</p>
+								<p>The results are stunning; The site a thing of beauty and it immediately contributed in an uptake in sales enquiries so much so that ALNO the high-end German kitchen brand have asked us to produce a site for their UK importers.</p>
 								<?php include('../assets/php/includes/portfolio-cta.html');?>
 								
 							</div>
@@ -125,9 +125,8 @@
 					<!--<div class="col-sm-12">-->
 						<div class="col-sm-8 col-sm-offset-4">
 
-						<p><img src="../assets/images/projects/kitchenology_portfolio_01.jpg" alt="Kitchenology Website"><br/><span style="background-color:#eaeaea; color:#111; display:block; padding:5px;">Floating Navigation sticks to right hand side of browser and floats outside of the grid system.</span></p>
-						<p><img src="../assets/images/projects/5mm_portfolio_05.jpg" alt="5mm Desktop Website"></p>
-						<p><img src="../assets/images/projects/5mm_portfolio_02.jpg" alt="5mm Portfolio Website"></p>
+						<p><img src="../assets/images/projects/kitchenology_portfolio_01.jpg" alt="Kitchenology Website"></p>
+						
 						</div>
 
 				</div><!-- .row -->
