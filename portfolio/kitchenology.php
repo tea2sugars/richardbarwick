@@ -16,7 +16,7 @@
 
 
 	<!-- HOME -->
-	<section class="module module-header bg-dark bg-dark-70" data-background="../assets/images/projects/kitchenology_general_header.jpg">
+	<section class="module module-header bg-dark bg-dark-50" data-background="../assets/images/projects/kitchenology_general_header.jpg">
 
 			<div class="container">
 
@@ -25,7 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">Kitchenology Responsive Website Design<br/><span class="small">Exploring shapes and the use of white space to compliment the client's work</span></h1>
+						<h1 class="module-title align-center">Kitchenology Responsive Website Design<br/><span class="small">Providing exceptional UI craftsmanship to transform the client's digital space.</span></h1>
 
 
 					</div>
@@ -68,7 +68,7 @@
 						<div class="work-details">
 							<ul>
 								<li><strong>Client: </strong>Kitchenology via Fellowship</li>
-								<li><strong>Project: </strong>Responsive Website Design & Development, WordPress Theme</li>
+								<li><strong>Project: </strong>Responsive UI Design &amp; Wordpress Theme Development</li>
 								<li><strong>Online: </strong><a href="https://www.kitchenologyltd.co.uk" target="_blank">www.kitchenologyltd.co.uk</a></li>
 								<li><strong>Budget: </strong>£££££</li>
 								<!--<li><strong>Testimonial: </strong>
