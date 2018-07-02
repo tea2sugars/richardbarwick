@@ -63,6 +63,22 @@
                     <div class="row">
                         <ul class="works-grid works-grid-4 works-hover-w" id="works-grid">
 	                        
+	                        <!-- PORTFOLIO ITEM -->
+				<li class="work-item digital">
+					<a href="kitchenology">
+						<div class="work-image">
+							<img src="../assets/images/projects/kitchenology_thumbnail.jpg" alt="Kitchenology"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Kitchenology</h3>
+							<div class="work-descr ">
+								Transforming their digital space
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+	                        
 	                        	<!-- PORTFOLIO ITEM -->
 						<li class="work-item digital">
 							<a href="portfolio/hsbc">
@@ -72,7 +88,7 @@
 								<div class="work-caption">
 									<h3 class="work-title ">HSBC</h3>
 									<div class="work-descr ">
-										Art Direction
+										Art Direction &amp; Brand Guardianship
 									</div>
 								</div>
 							</a>
@@ -144,23 +160,7 @@
                                 </a>
                             </li>
 						
-						
-						<!-- PORTFOLIO ITEM -->
-				<li class="work-item artdirection">
-					<a href="portfolio/gentspack">
-						<div class="work-image">
-							<img src="../assets/images/projects/Gents_thumbnail.jpg" alt="Gents Pack Rebrand and Packaging"/>
-						</div>
-						<div class="work-caption">
-							<h3 class="work-title ">Gents Pack</h3>
-							<div class="work-descr ">
-								Branding & E-commerce UI Design
-							</div>
-						</div>
-					</a>
-				</li>
-				<!-- /PORTFOLIO ITEM -->
-				
+									
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item branding artdirection">
 					<a href="hartestbrewingco">

@@ -57,6 +57,22 @@
 				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item digital">
+					<a href="kitchenology">
+						<div class="work-image">
+							<img src="../assets/images/projects/kitchenology_thumbnail.jpg" alt="Kitchenology"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Kitchenology</h3>
+							<div class="work-descr ">
+								Transforming their digital space
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item digital">
 					<a href="hallstreet">
 						<div class="work-image">
 							<img src="../assets/images/projects/hallst_portfolio_thumbnail.png" alt="Hall Street"/>
