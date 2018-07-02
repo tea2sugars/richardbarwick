@@ -65,7 +65,7 @@
 	                        
 	                        <!-- PORTFOLIO ITEM -->
 				<li class="work-item digital">
-					<a href="kitchenology">
+					<a href="portfolio/kitchenology">
 						<div class="work-image">
 							<img src="../assets/images/projects/kitchenology_thumbnail.jpg" alt="Kitchenology"/>
 						</div>
@@ -97,7 +97,7 @@
 	                        
 	                        <!-- PORTFOLIO ITEM -->
 							<li class="work-item digital">
-								<a href="hallstreet">
+								<a href="portfolio/hallstreet">
 									<div class="work-image">
 										<img src="../assets/images/projects/hallst_portfolio_thumbnail.png" alt="Hall Street"/>
 									</div>
