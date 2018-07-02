@@ -63,7 +63,7 @@
 							<ul>
 								<li><strong>Client: </strong>Hall Street</li>
 								<li><strong>Project: </strong>Responsive Website Design & Development, Perch CMS</li>
-								<li><strong>Online: </strong><a href="https://www.hall-street.co.uk" target="_blank">www.hall-street.co.uk</a></li>
+								<li><strong>Online: </strong><a href="http://www.hall-street.co.uk/" target="_blank">www.hall-street.co.uk</a></li>
 								<li><strong>Budget: </strong>££££</li>
 								<li><strong>Testimonial: </strong>
 									<br/>
