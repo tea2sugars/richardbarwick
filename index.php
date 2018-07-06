@@ -78,6 +78,22 @@
 					</a>
 				</li>
 				<!-- /PORTFOLIO ITEM -->
+				
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item ux digital">
+					<a href="portfolio/portable-space">
+						<div class="work-image">
+							<img src="../assets/images/projects/portable-space_thumbnail.jpg" alt="Portable Space Masthead and Navigation UX"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Portable Space</h3>
+							<div class="work-descr ">
+								Masthead and Navigation UX
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
 	                        
 	                        	<!-- PORTFOLIO ITEM -->
 						<li class="work-item digital">
@@ -127,22 +143,7 @@
 							</li>
 							<!-- /PORTFOLIO ITEM -->
 	                        
-	                        <!-- PORTFOLIO ITEM -->
-							<li class="work-item digital">
-								<a href="portfolio/janus">
-									<div class="work-image">
-										<img src="../assets/images/projects/janus_thumbnail.jpg" alt="Project JANUS UI"/>
-									</div>
-									<div class="work-caption">
-										<h3 class="work-title ">Software AG - Project JANUS</h3>
-										<div class="work-descr ">
-											User Interface (UI) Design for digital Infographic
-										</div>
-									</div>
-								</a>
-							</li>
-							<!-- /PORTFOLIO ITEM -->
-	                        
+	                                              
                             <li class="work-item digital">
                                 <a href="portfolio/buyapowa_saas">
                                     <div class="work-image"><img alt="Buyapowa Social Commerce SAAS UX and Design" src="../assets/images/projects/Buyapowa_SAAS_portfolio_thumbnail.jpg">

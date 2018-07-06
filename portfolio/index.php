@@ -70,10 +70,7 @@
 					</a>
 				</li>
 				<!-- /PORTFOLIO ITEM -->
-				
-				<!-- PORTFOLIO LIST -->
-			<ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
-				
+						
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item ux digital">
 					<a href="portable-space">
