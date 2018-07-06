@@ -100,17 +100,14 @@
 							</div>
 
 						</div>
-						<div class="row" style="margin-top:20px;">
-
-						<!--<div class="col-sm-12">-->
-							<div class="col-sm-12 col-md-12 col-lg-12 m-b-30">
+					</div>
+					
+					<div>
+						<div class="row">
 	
 							<p><img src="../assets/images/projects/portable-space_portfolio.jpg" alt="Portable Space Masthead and Navigation UX"></p>
 							
-							</div>
-
 						</div><!-- .row -->
-
 					</div>
 
 				</div>
