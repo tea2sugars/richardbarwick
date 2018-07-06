@@ -102,10 +102,10 @@
 						</div>
 					</div>
 					
-					<div style="margin-top:30px;">
-						<div class="row">
+					<div>
+						<div class="row" style="margin-top:30px;">
 	
-							<p><img src="../assets/images/projects/portable-space_portfolio.jpg" alt="Portable Space Masthead and Navigation UX"></p>
+							<p><img src="../assets/images/projects/portable-space_portfolio.jpg" alt="Portable Space Masthead and Navigation UX" style="width:100%; height:auto;"></p>
 							
 						</div><!-- .row -->
 					</div>
