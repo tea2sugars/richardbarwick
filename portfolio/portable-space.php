@@ -61,7 +61,7 @@
 					<div class="col-md-4">
 						<div class="work-details">
 							<ul>
-								<li><strong>Client: </strong>Portable via Fellowship</li>
+								<li><strong>Client: </strong>Portable Space Ltd via Fellowship</li>
 								<li><strong>Project: </strong>Responsive Website Design and UX</li>
 								<li><strong>Budget: </strong>£££££</li>
 								<!--<li><strong>Testimonial: </strong>
