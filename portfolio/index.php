@@ -71,6 +71,25 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 				
+				<!-- PORTFOLIO LIST -->
+			<ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
+				
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item ux digital">
+					<a href="portable-space">
+						<div class="work-image">
+							<img src="../assets/images/projects/portable-space_thumbnail.jpg" alt="Portable Space Masthead and Navigation UX"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Portable Space</h3>
+							<div class="work-descr ">
+								Masthead and Navigation UX
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item digital">
 					<a href="hallstreet">
