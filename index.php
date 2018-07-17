@@ -61,7 +61,7 @@
 	            
                 <div class="container-fluid">
                     <div class="row">
-                        <ul class="works-grid works-grid-4 works-hover-w" id="works-grid">
+                        <ul class="works-grid works-grid-3 works-hover-w" id="works-grid">
 	                        
 	                        <!-- PORTFOLIO ITEM -->
 							<li class="work-item digital">
