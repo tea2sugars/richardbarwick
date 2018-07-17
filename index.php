@@ -64,52 +64,52 @@
                         <ul class="works-grid works-grid-4 works-hover-w" id="works-grid">
 	                        
 	                        <!-- PORTFOLIO ITEM -->
-				<li class="work-item digital">
-					<a href="portfolio/kitchenology">
-						<div class="work-image">
-							<img src="../assets/images/projects/kitchenology_thumbnail.jpg" alt="Kitchenology"/>
-						</div>
-						<div class="work-caption">
-							<h3 class="work-title ">Kitchenology</h3>
-							<div class="work-descr ">
-								Transforming their digital space
-							</div>
-						</div>
-					</a>
-				</li>
-				<!-- /PORTFOLIO ITEM -->
-				
-				<!-- PORTFOLIO ITEM -->
-				<li class="work-item ux digital">
-					<a href="portfolio/portable-space">
-						<div class="work-image">
-							<img src="../assets/images/projects/portable-space_thumbnail.jpg" alt="Portable Space Masthead and Navigation UX"/>
-						</div>
-						<div class="work-caption">
-							<h3 class="work-title ">Portable Space</h3>
-							<div class="work-descr ">
-								Masthead and Navigation UX
-							</div>
-						</div>
-					</a>
-				</li>
-				<!-- /PORTFOLIO ITEM -->
-	                        
-	                        	<!-- PORTFOLIO ITEM -->
-						<li class="work-item digital">
-							<a href="portfolio/hsbc">
-								<div class="work-image">
-									<img src="../assets/images/projects/hsbc_portfolio_thumbnail.jpg" alt="HSBC Bank"/>
-								</div>
-								<div class="work-caption">
-									<h3 class="work-title ">HSBC</h3>
-									<div class="work-descr ">
-										Art Direction &amp; Brand Guardianship
+							<li class="work-item digital">
+								<a href="portfolio/kitchenology">
+									<div class="work-image">
+										<img src="../assets/images/projects/kitchenology_thumbnail.jpg" alt="Kitchenology"/>
 									</div>
-								</div>
-							</a>
-						</li>
-						<!-- /PORTFOLIO ITEM -->
+									<div class="work-caption">
+										<h3 class="work-title ">Kitchenology</h3>
+										<div class="work-descr ">
+											Transforming their digital space
+										</div>
+									</div>
+								</a>
+							</li>
+							<!-- /PORTFOLIO ITEM -->
+							
+							<!-- PORTFOLIO ITEM 
+							<li class="work-item ux digital">
+								<a href="portfolio/portable-space">
+									<div class="work-image">
+										<img src="../assets/images/projects/portable-space_thumbnail.jpg" alt="Portable Space Masthead and Navigation UX"/>
+									</div>
+									<div class="work-caption">
+										<h3 class="work-title ">Portable Space</h3>
+										<div class="work-descr ">
+											Masthead and Navigation UX
+										</div>
+									</div>
+								</a>
+							</li>
+							<!-- /PORTFOLIO ITEM -->
+	                        
+	                        <!-- PORTFOLIO ITEM -->
+							<li class="work-item digital">
+								<a href="portfolio/hsbc">
+									<div class="work-image">
+										<img src="../assets/images/projects/hsbc_portfolio_thumbnail.jpg" alt="HSBC Bank"/>
+									</div>
+									<div class="work-caption">
+										<h3 class="work-title ">HSBC</h3>
+										<div class="work-descr ">
+											Art Direction &amp; Brand Guardianship
+										</div>
+									</div>
+								</a>
+							</li>
+							<!-- /PORTFOLIO ITEM -->
 	                        
 	                        <!-- PORTFOLIO ITEM -->
 							<li class="work-item digital">
@@ -160,38 +160,22 @@
                                     </div>
                                 </a>
                             </li>
-						
-									
-				<!-- PORTFOLIO ITEM -->
-				<li class="work-item branding artdirection">
-					<a href="hartestbrewingco">
-						<div class="work-image">
-							<img src="../assets/images/projects/hbc_portfolio_thumbnail.jpg" alt="Hartest Brewing Co"/>
-						</div>
-						<div class="work-caption">
-							<h3 class="work-title ">Hartest Brewing Co</h3>
-							<div class="work-descr ">
-								Branding and Beer Label Design
-							</div>
-						</div>
-					</a>
-				</li>
-				<!-- /PORTFOLIO ITEM -->				
-				<!-- PORTFOLIO ITEM -->
-				<li class="work-item digital ux">
-					<a href="5mm">
-						<div class="work-image">
-							<img src="../assets/images/projects/5mm_portfolio_thumbnail.jpg" alt="5mm Interior Design Website Design"/>
-						</div>
-						<div class="work-caption">
-							<h3 class="work-title ">5mm.co</h3>
-							<div class="work-descr ">
-								Responsive Website Design
-							</div>
-						</div>
-					</a>
-				</li>
-				<!-- /PORTFOLIO ITEM -->				
+							
+							<!-- PORTFOLIO ITEM -->
+							<li class="work-item digital ux">
+								<a href="5mm">
+									<div class="work-image">
+										<img src="../assets/images/projects/5mm_portfolio_thumbnail.jpg" alt="5mm Interior Design Website Design"/>
+									</div>
+									<div class="work-caption">
+										<h3 class="work-title ">5mm.co</h3>
+										<div class="work-descr ">
+											Responsive Website Design
+										</div>
+									</div>
+								</a>
+							</li>
+							<!-- /PORTFOLIO ITEM -->				
 
                         </ul>
                     </div>

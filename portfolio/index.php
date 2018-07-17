@@ -71,7 +71,7 @@
 				</li>
 				<!-- /PORTFOLIO ITEM -->
 						
-				<!-- PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM 
 				<li class="work-item ux digital">
 					<a href="portable-space">
 						<div class="work-image">
