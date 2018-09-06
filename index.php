@@ -163,7 +163,7 @@
 							
 							<!-- PORTFOLIO ITEM -->
 							<li class="work-item digital ux">
-								<a href="5mm">
+								<a href="portfolio/5mm">
 									<div class="work-image">
 										<img src="../assets/images/projects/5mm_portfolio_thumbnail.jpg" alt="5mm Interior Design Website Design"/>
 									</div>
