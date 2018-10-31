@@ -6,7 +6,7 @@
 	<meta name="description" content="Rik Barwick worked with Trion Worlds to create a hard-hitting campaign for game title End of Nations">
 	<meta name="author" content="">
 	
-	<title>Trion Worlds | End of Nations Campaign | Rik Barwick Freelance Website Designer, Suffolk</title>
+	<title>End of Nations Campaign | Rik Barwick</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

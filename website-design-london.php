@@ -13,7 +13,7 @@
 	<script type="text/javascript">
 	var switchTo5x=true;
 	</script>
-	<script src="http://w.sharethis.com/button/buttons.js" type="text/javascript">
+	<script src="https://w.sharethis.com/button/buttons.js" type="text/javascript">
 	</script>
 	<script type="text/javascript">
 	stLight.options({publisher: "0750579a-dfe6-4d2b-a96d-da69d0aa188f", doNotHash: false, doNotCopy: false, hashAddressBar: false});
@@ -109,10 +109,10 @@
 								<p>2016 saw us move our studio from Guildford to Sutton. This offers a more direct route to London whilst still having a presence in Surrey, our original home. With direct transport links into central London and the wider areas of Surrey, we are able to continue to provide our branding services to both areas.</p>
 								<p>Unfortunately due to the privacy of some of our clients work we're under contract to not allow visitors to the Surrey studio. So we have setup space at the Impact Hub at King’s Cross which offers a fantastic space for workshops, meetings and working with the team directly.</p>
 
-								<div itemscope itemtype="http://schema.org/LocalBusiness">
+								<div itemscope itemtype="https://schema.org/LocalBusiness">
 									<span itemprop="name">Creativitea Ltd</span>
 
-									<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+									<div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
 										<span itemprop="streetAddress">34B York Way</span> <span itemprop="addressLocality">London</span>, <span itemprop="addressRegion">Surrey</span> <span itemprop="postalCode">N1 9AB</span><br/>
 										0208 123 0246
 									</div>

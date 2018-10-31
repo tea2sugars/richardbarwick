@@ -6,7 +6,7 @@
 	<meta name="description" content="Brand and Digital Consultant Rik Barwick worked with Carphone Warehouse to produce their Social Video campaign for their 2015 Black Tag event.">
 	<meta name="author" content="">
 	
-	<title>Carphone Warehouse Black Tag Event, social media campaign | Motion Design and Animation | Rik Barwick Freelance Website Designer, Suffolk</title>
+	<title>Carphone Warehouse Black Tag Event | Art Direction by Rik Barwick</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

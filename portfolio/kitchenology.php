@@ -6,7 +6,7 @@
 	<meta name="description" content="Rik Barwick worked with Fellowship Productions and Kitchenology to design a high-end responsive website to help showcase their portfolio">
 	<meta name="author" content="">
 	
-	<title>Kitchenology | Website Design | Rik Barwick Freelance Website Designer, Suffolk</title>
+	<title>Kitchenology | Website Design by Rik Barwick </title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

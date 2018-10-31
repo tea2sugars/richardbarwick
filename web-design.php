@@ -7,7 +7,7 @@
     <meta name="description" content="A London, Surrey & Suffolk based Website Design Agency working on Responsive Website Design, App Design, UX Design, Drupal Development">
     <meta name="author" content="">
 
-    <title>Web Design & Digital Design Agency | Creativitea based in Surrey, London and Suffolk</title>
+    <title>Web Design & Digital Design | Rik Barwick based in London and Suffolk</title>
 
     <?php include( 'assets/php/includes/head-css.html');?>
 
@@ -16,7 +16,7 @@
     <script type="text/javascript">
         var switchTo5x = true;
     </script>
-    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript" src="https://w.sharethis.com/button/buttons.js"></script>
     <script type="text/javascript">
         stLight.options({
             publisher: "0750579a-dfe6-4d2b-a96d-da69d0aa188f",
@@ -280,7 +280,7 @@
     <script src="assets/js/appear.js"></script>
     <script src="assets/js/jquery.simple-text-rotator.min.js"></script>
     <script src="assets/js/jqBootstrapValidation.js"></script>
-    <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+    <script src="https://maps.google.com/maps/api/js?sensor=true"></script>
     <script src="assets/js/gmaps.js"></script>
     <script src="assets/js/isotope.pkgd.min.js"></script>
     <script src="assets/js/imagesloaded.pkgd.js"></script>

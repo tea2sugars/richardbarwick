@@ -6,7 +6,7 @@
 	<meta name="description" content="Rik Barwick work with Tante Marie Culianry Academy and The Restauarnt and have designed The Restaurant a slick, responsive website to showcase their menu and restaurant.">
 	<meta name="author" content="">
 	
-	<title>Tante Marie The Restaurant | Website Design | Responsive Website Design | Rik Barwick Freelance Website Designer, Suffolk</title>
+	<title>Tante Marie The Restaurant Responsive Website Design by Rik Barwick</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

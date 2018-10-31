@@ -53,7 +53,7 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 							<p>Smoke Signals are probably the oldest forms of long-distance visual communication. Native American's used to light smokey fires and use the smoke to spread news and warnings and to call people together for gatherings.</p>
 							<p>Whilst the idea of lighting a fire and getting together for some kind of tribal gathering / creative meeting sounds great, Life is a lot simpler now, just use the devices below to say hello and i'll get back to you as soon as possible!</em></p>
 							<h3>Say hello by&hellip;</h3>
-						<div itemscope itemtype="http://schema.org/LocalBusiness">
+						<div itemscope itemtype="https://schema.org/LocalBusiness">
 							<article class="col-xs-12 col-md-6">
 								<h4>Phone</h4>
 								<p class="lead"><span itemprop="telephone">07802 530 465</span></p>
@@ -103,7 +103,7 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 	<script src="assets/js/appear.js"></script>
 	<script src="assets/js/jquery.simple-text-rotator.min.js"></script>
 	<script src="assets/js/jqBootstrapValidation.js"></script>
-	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+	<script src="https://maps.google.com/maps/api/js?sensor=true"></script>
 	<script src="assets/js/gmaps.js"></script>
 	<script src="assets/js/isotope.pkgd.min.js"></script>
 	<script src="assets/js/imagesloaded.pkgd.js"></script>

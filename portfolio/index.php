@@ -7,7 +7,7 @@
 	<meta name="author" content="Rik Barwick">
 	
 	
-	<title>Rik Barwick's Portfolio | Freelance Digital Consultant, UX and UI Design | London and Suffolk</title>
+	<title>Rik Barwick's Portfolio - Digital Designer based in London &amp; Suffolk</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 

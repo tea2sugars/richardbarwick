@@ -6,7 +6,7 @@
 	<meta name="description" content="Rik Barwick worked with Artisan Pizza Restaurant 'Domenico' to design a fresh new brand and website design.">
 	<meta name="author" content="">
 	
-	<title>Domenico | Branding | Website Design | Rik Barwick Freelance Website Designer, Suffolk</title>
+	<title>Domenico Pizza Website Design by Rik Barwick </title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

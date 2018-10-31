@@ -6,7 +6,7 @@
 	<meta name="description" content="Rik Barwick worked with Buyapowa to help develop the User Experience and Website Design for their Social Commerce SAAS Platform">
 	<meta name="author" content="">
 	
-	<title>Buyapowa Social Commerce | UX and Website Design | Rik Barwick Freelance Website Designer, Suffolk</title>
+	<title>Buyapowa Social Commerce | Product Design by Rik Barwick</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

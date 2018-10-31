@@ -3,18 +3,18 @@
 <head>
 		<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Creativitea offers Website Design services including UX Design, Website Development, Email Marketing and SEO from their studio in Surrey.">
+	<meta name="description" content="Rik Barwick offers Website Design services including UX Design, Website Development, Email Marketing and SEO from their studio in Surrey.">
 	<meta name="keywords" content="website design surrey, web design surrey, website design sutton, web design sutton"
 	<meta name="author" content="">
 	
-	<title>Creativitea - A Website Design Agency in Surrey | Web Development</title>
+	<title>Rik Barwick - A Website Design Agency in Surrey | Web Development</title>
 	
 		<?php include('assets/php/includes/head-css.html');?>
 
 	
 	<!--Share widget-->
 	<script type="text/javascript">var switchTo5x=true;</script>
-	<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+	<script type="text/javascript" src="https://w.sharethis.com/button/buttons.js"></script>
 	<script type="text/javascript">stLight.options({publisher: "0750579a-dfe6-4d2b-a96d-da69d0aa188f", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 	
 </head>
@@ -63,7 +63,7 @@
 								
 								<h3>Local experience</h3>
 								
-								<p>We've designed websites for Surrey based clients such as <a href="http://www.creativitea.co.uk/portfolio/tantemarie-restaurant" title="Tante Marie Culinary Academy Website Design">Tante Marie Culinary Academy</a> and <a href="http://www.creativitea.co.uk/portfolio/djst" title="Don't Just Sit There, Sell Something Ltd Website Design">DJST</a>.</p>
+								<p>We've designed websites for Surrey based clients such as <a href="https://www.creativitea.co.uk/portfolio/tantemarie-restaurant" title="Tante Marie Culinary Academy Website Design">Tante Marie Culinary Academy</a> and <a href="https://www.creativitea.co.uk/portfolio/djst" title="Don't Just Sit There, Sell Something Ltd Website Design">DJST</a>.</p>
 								
 								<p>The local gaming industry has also served us well in the past with Guildford once being known as the gaming capital of Britain. We've worked for Electronic Arts, Trion Worlds, Activision and Atari who have all been based here.</p>
 								
@@ -72,9 +72,9 @@
 
 								<p>2016 saw us move our studio from Guildford to Sutton. This offers a more direct route to London whilst still having a presence in Surrey, our original home. With direct transport links into central London and the wider areas of Surrey, we are able to continue to provide our branding services to both areas.</p>
 								<p>Unfortunately due to the privacy of some of our clients work we're under contract to not allow visitors to the Surrey studio. So we have setup space at the Impact Hub at King’s Cross which offers a fantastic space for workshops, meetings and working with the team directly.</p>
-								<div itemscope itemtype="http://schema.org/LocalBusiness">
+								<div itemscope itemtype="https://schema.org/LocalBusiness">
 										<span itemprop="name">Creativitea Ltd</span>
-										<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+										<div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
 									    	<span itemprop="streetAddress">The Cabin, 36 Welbeck Road</span>
 											<span itemprop="addressLocality">Sutton</span>,
 											<span itemprop="addressRegion">Surrey</span>

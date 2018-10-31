@@ -6,7 +6,7 @@
 	<meta name="description" content="Rik Barwick worked with Don't Just Sit There, Sell Something to design them a responsive website to help increase sales conversion improving on their sales funnel.">
 	<meta name="author" content="">
 	
-	<title>Don't Just Sit There, Sell Something | Retro Website Design | Rik Barwick Freelance Website Designer, Suffolk</title>
+	<title>Retro Website Design by Rik Barwick/title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

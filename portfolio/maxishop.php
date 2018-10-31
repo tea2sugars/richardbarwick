@@ -6,7 +6,7 @@
 	<meta name="description" content="Rik Barwick worked with Maxinutrition to redesign their ecommerce platform. We designed a new logotype for Maxishop.com and worked on Information Architecture and UX.">
 	<meta name="author" content="">
 	
-	<title>Maxishop | Branding | E-Commerce Design, UX and Information Architecture | Rik Barwick Freelance UX Designer, Suffolk</title>
+	<title>Maxishop E-Commerce Design, UX and Information Architecture by Rik Barwick</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

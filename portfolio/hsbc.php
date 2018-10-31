@@ -6,7 +6,7 @@
 	<meta name="description" content="Rik Barwick worked with AnalogFolk and HSBC as part of their DRB team">
 	<meta name="author" content="">
 	
-	<title>HSBC Bank | UX and UI Design Reviews on global projects | Rik Barwick - Freelance Digital Art Director, Suffolk</title>
+	<title>HSBC Bank | UX and UI Design Reviews on global projects | Rik Barwick</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

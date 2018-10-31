@@ -6,7 +6,7 @@
 	<meta name="description" content="Rik Barwick worked with S4NITY to create an award-winning brand and company mascot. We designed a mascot and animated him as a teaser ident video.">
 	<meta name="author" content="">
 	
-	<title>S4NITY | Branding | 3D Character Design and Animation | Rik Barwick - A Brand & Digital Design Agency</title>
+	<title>S4NITY | Branding | 3D Character Design and Animation | Rik Barwick</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

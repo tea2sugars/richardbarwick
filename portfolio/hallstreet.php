@@ -6,7 +6,7 @@
 	<meta name="description" content="Rik Barwick worked with Hall Street to design them a boutique website">
 	<meta name="author" content="">
 	
-	<title>Hall Street | Website Design | Rik Barwick Freelance Website Designer, Suffolk</title>
+	<title>Hall Street | Website Design by Rik Barwick</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

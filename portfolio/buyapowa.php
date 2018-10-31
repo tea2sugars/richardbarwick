@@ -6,7 +6,7 @@
 	<meta name="description" content="Rik Barwick worked with Buyapowa to help deliver a responsive website solution for their B2B Marketing Website using Foundation Framework">
 	<meta name="author" content="">
 	
-	<title>Buyapowa | B2B Marketing Website Design | Rik Barwick - A freelance UX consultant, Suffolk</title>
+	<title>Buyapowa | B2B Marketing Website Design by Rik Barwick</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

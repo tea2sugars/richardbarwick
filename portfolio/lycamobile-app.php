@@ -6,7 +6,7 @@
 	<meta name="description" content="Rik Barwick worked with Lycamobile to design their Customer Service App">
 	<meta name="author" content="">
 	
-	<title>Lycamobile Customer Service App | Android App Design | Rik Barwick Freelance Website Designer, Suffolk</title>
+	<title>Lycamobile Customer Service App | Android App Design by Rik Barwick</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

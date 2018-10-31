@@ -1,154 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+      xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9
+            https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
 <url>
-  <loc>http://www.rikbarwick.co.uk/</loc>
+  <loc>https://www.rikbarwick.co.uk/</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/portfolio/</loc>
+  <loc>https://www.rikbarwick.co.uk/portfolio/</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/clients</loc>
+  <loc>https://www.rikbarwick.co.uk/clients</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/digital-design</loc>
+  <loc>https://www.rikbarwick.co.uk/digital-design</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/web-design</loc>
+  <loc>https://www.rikbarwick.co.uk/web-design</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/support</loc>
+  <loc>https://www.rikbarwick.co.uk/support</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/contact</loc>
+  <loc>https://www.rikbarwick.co.uk/contact</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/portfolio/salute</loc>
+  <loc>https://www.rikbarwick.co.uk/portfolio/salute</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/portfolio/janus</loc>
+  <loc>https://www.rikbarwick.co.uk/portfolio/janus</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/portfolio/buyapowa_saas</loc>
+  <loc>https://www.rikbarwick.co.uk/portfolio/buyapowa_saas</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/portfolio/hsbc</loc>
+  <loc>https://www.rikbarwick.co.uk/portfolio/hsbc</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/portfolio/gentspack</loc>
+  <loc>https://www.rikbarwick.co.uk/portfolio/gentspack</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/portfolio/maxishop</loc>
+  <loc>https://www.rikbarwick.co.uk/portfolio/maxishop</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/portfolio/trion-worlds-end-of-nations</loc>
+  <loc>https://www.rikbarwick.co.uk/portfolio/trion-worlds-end-of-nations</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/portfolio/lycamobile-app</loc>
+  <loc>https://www.rikbarwick.co.uk/portfolio/lycamobile-app</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/index</loc>
+  <loc>https://www.rikbarwick.co.uk/privacy-policy</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/privacy-policy</loc>
+  <loc>https://www.rikbarwick.co.uk/terms</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/terms</loc>
-  <lastmod>2018-04-12T20:19:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.rikbarwick.co.uk/portfolio/hartestbrewingco</loc>
+  <loc>https://www.rikbarwick.co.uk/portfolio/hartestbrewingco</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/portfolio/carphone-warehouse-blacktag</loc>
+  <loc>https://www.rikbarwick.co.uk/portfolio/carphone-warehouse-blacktag</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/portfolio/domenico</loc>
+  <loc>https://www.rikbarwick.co.uk/portfolio/domenico</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/portfolio/5mm</loc>
+  <loc>https://www.rikbarwick.co.uk/portfolio/5mm</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/portfolio/buyapowa</loc>
+  <loc>https://www.rikbarwick.co.uk/portfolio/buyapowa</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/portfolio/tantemarie-restaurant</loc>
+  <loc>https://www.rikbarwick.co.uk/portfolio/tantemarie-restaurant</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/portfolio/talkmobile-brand</loc>
+  <loc>https://www.rikbarwick.co.uk/portfolio/talkmobile-brand</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/portfolio/djst</loc>
+  <loc>https://www.rikbarwick.co.uk/portfolio/djst</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/portfolio/s4nity-ident</loc>
+  <loc>https://www.rikbarwick.co.uk/portfolio/s4nity-ident</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.rikbarwick.co.uk/portfolio/index</loc>
-  <lastmod>2018-04-12T20:19:20+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.rikbarwick.co.uk/digital-marketing</loc>
+  <loc>https://www.rikbarwick.co.uk/digital-marketing</loc>
   <lastmod>2018-04-12T20:19:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>

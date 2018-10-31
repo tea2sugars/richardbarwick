@@ -6,7 +6,7 @@
 	<meta name="description" content="Gents Pack approached Rik Barwick to re-brand and align their company to a larger audiance">
 	<meta name="author" content="">
 	
-	<title>Gents Pack | Brand and Packaging | Rik Barwick Freelance Website and Brand Designer, Suffolk</title>
+	<title>Gents Pack Creative Direction by Rik Barwick, Suffolk</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>
