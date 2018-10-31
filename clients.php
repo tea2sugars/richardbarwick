@@ -28,7 +28,7 @@
 		<section id="industries" class="module-small">
 			<div class="container ">
 				<div class="row">
-					<h2 class="text-center">My Industry Experience</h2>
+					<h1 class="text-center">My Design Career</h1>
 					<p class="text-center lead">Over the years I've had the pleasure in working with clients on rosters, retainers &amp; individual projects.</p>
 				</div>
 				<div class="row">
