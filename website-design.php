@@ -111,6 +111,67 @@
 		<hr class="divider-w">
 		<!-- /DIVIDER -->
 		
+		<section class="module-small light-grey-section" id="web-services">
+	        <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <article>
+                           <h4 class="text-center">Digital &amp; Web Design Agency Services</h4>
+                            <p>
+                                <ul class="grid-list">
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
+                                        <div class="grid-list-content">
+
+                                            <h5><span class="initial" title="User Experience">UX</span> Design</h5>
+                                            <p>Working with your team, I work to identify your business goals and objectives to help develop an insight to what you need to do to convert your users. Outlining these key objectives enables us to design and develop key activities surrounding your website design. Activities include customer journey mapping, stakeholder interviews, workshops, customer profiling, content strategy and <span class="initial" title="Key Performance Indicators">KPI</span> measurements / benchmarking.</p>
+                                        </div>
+                                    </li>
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
+                                        <div class="grid-list-content">
+                                            <h5>User Research &amp; Content Analysis</h5>
+                                            <p>There is no magic formula to creating great users experiences and digital products. In our experience the most successful digital projects start with an investment into researching user patterns, analysing content and planning your Information Architecture (IA). Activities include competitor benchmarking, user focus groups or user surveys, heat-mapping and eye-tracking and mobile-device testing.</p>
+                                        </div>
+                                    </li>
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
+                                        <div class="grid-list-content">
+                                            <h5>User Interface Design (UI)</h5>
+                                            <p>During the design process our digital team integrate our <span class="initial" title="User Experince">UX</span> and <span class="initial" title="Information Architecture">IA</span> development into beautiful User Interfaces (UI) to create memorable digital solutions that reflect your organisations brand and to encourages returning users. I work in an iterative process with a range of tools to design and explain our thought processes throughout the design phase. Activities may include; paper and rapid design using live online tools for instant previews and prototyping, responsive design, digital design, digital style guidelines and content design.</p>
+                                        </div>
+                                    </li>
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
+                                        <div class="grid-list-content">
+                                            <h5><span class="initial" title="User Interfaces">UI</span> & Web Development</h5>
+                                            <p>I am passionate about exploring the latest tools and techniques to develop standards-compliant user interfaces and website. I use a range HTML, CSS and JavaScript at the core of our projects but enhance the power of other tech like AJAX, PHP and HTML5. I have a range of experiences with frameworks such as Bootstrap and Foundation which I often use to develop rich user experiences for our clients in a timely manner. Activities may include; responsive website design, mobile applications, interactive prototypes, accessibility &amp; standards and interactive animated content.</p>
+                                        </div>
+                                    </li>
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
+                                        <div class="grid-list-content">
+                                            <h5>Digital Technology, Testing &amp; Enhancing</h5>
+                                            <p>A website or digital product should also work for our clients. I work with a range of Content Management Systems (CMS) and web-services to make our client's lives easier and save them money and resources. My <span class="initial" title="Content Management System">CMS</span> of choice Drupal but I also enjoy using Perch for smaller projects.</p>
+                                            <p>With the increasing amount of devices and internet access points available nowadays, it's important to test digital design solutions on a range of devices. These include mobile-responsiveness, optimisation, page-speed analysis and even proofreading for quality assurance.</p>
+                                        </div>
+                                    </li>
+                                    
+                                    <li class="list-indent col-sm-4 m-b-20 grid-list-item">
+                                        <div class="grid-list-content">
+                                            <h5>Renovation, optimisation and redesigning</h5>
+                                            <p>Sometimes things just don't work or the world moves on and suddenly you're out of date. I help analyse the current situation, past performances and objectives. This gives us valuable insight to help renovate your offering based around a more focussed programme of quick-win solutions and iterative improvements to keep you working.</p>
+                                        </div>
+                                    </li>
+
+                                </ul>
+                            </p>
+                            <div class="text-center"> <a href="portfolio" class="btn btn-lg btn-y btn-round">View my Digital Design work</a></div>
+                        </article>
+                    </div>
+                </div>
+	        </div>
+        </section>
+        
+        <!-- DIVIDER -->
+		<hr class="divider-w">
+		<!-- /DIVIDER -->
+		
 		<!-- PORTFOLIO -->
 		<section class="module-small p-t-20 p-b-40 p-t-sm-0" id="portfolio">
 			<div class="container-fluid">
