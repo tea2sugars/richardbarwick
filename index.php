@@ -21,8 +21,8 @@
                     <div class="col-md-7 col-md-offset-1 col-lg-6 col-lg-offset-1">
                         <h1>
 	                        <span class="yellow">–</span><br>
-		                    Freelance Website Designer<br/>
-		                    <small>Hi i'm Rik, an experienced Website Designer &amp; developer working for clients around the globe.<br/>I design. I code. I do.<br/></small>
+		                    Need a Freelance Website Designer?<br/>
+		                    <small>Look no further! My name is Rik and i'm an experienced Freelance Website Designer &amp; developer. I am based in Suffolk and work for clients around the globe.<br/>I design. I code. I do.<br/></small>
 		                    <span class="yellow">–</span>
 		                </h1>
 		                
