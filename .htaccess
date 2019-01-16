@@ -6,3 +6,4 @@ RewriteCond %{SERVER_PORT} 80
 RewriteRule ^(.*)$ https://www.rikbarwick.co.uk/$1 [R,L]
 
 Redirect 301 /digital-design /website-design
+Redirect 301 /web-design /website-design
