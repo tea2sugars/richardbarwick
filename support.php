@@ -74,7 +74,7 @@
                         <article>
 
                             <h3>We're Digital Design Agency that build our own solutions for our clients so we know your product intimately so we can help support your business and be part of your team.</h3>
-                            <p>I once said if he had a pound for every time someone mentioned their site was too hard to work with so they don't bother or that they felt they were calling a lawyer with a stopwatch every time they phoned their digital team for some advise he'd be retired by now.</p>
+                            <p>I once said if I had a pound for every time someone mentioned their site was too hard to work with so they don't bother or that they felt they were calling a lawyer with a stopwatch every time they phoned their digital team for some advise he'd be retired by now.</p>
 
                             <p>I like to become extension of <u>Your Team</u>. I've always prided myself on being there for my client when they needed me most. Not with an excessive bill but an understanding that we are in this together – through the bad and also the good! This is my brand and it is engrained in me like Brighton Rock.</p>
                             <p>WI offer a range of affordable monthly digital support packages so there's no scary surprises and also offer a range of services to keep your website or digital product online, earning you money and attracting leads.</p>
