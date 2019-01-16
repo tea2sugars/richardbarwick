@@ -7,7 +7,7 @@
     <meta name="description" content="A London, Surrey & Suffolk based Website Design Agency working to support our clients with elegant design and excellent client services.">
     <meta name="author" content="">
 
-    <title>Web Design Business Support | Website Design Agency | Creativitea</title>
+    <title>Web Design Business Support | Rik Barwick</title>
 
     <?php include( 'assets/php/includes/head-css.html');?>
 
@@ -74,11 +74,11 @@
                         <article>
 
                             <h3>We're Digital Design Agency that build our own solutions for our clients so we know your product intimately so we can help support your business and be part of your team.</h3>
-                            <p>Rik our Director and Digital Lead once said if he had a pound for every time someone mentioned their site was too hard to work with so they don't bother or that they felt they were calling a lawyer with a stopwatch every time they phoned their digital team for some advise he'd be retired by now.</p>
+                            <p>I once said if he had a pound for every time someone mentioned their site was too hard to work with so they don't bother or that they felt they were calling a lawyer with a stopwatch every time they phoned their digital team for some advise he'd be retired by now.</p>
 
-                            <p>Our team at Creativitea should really be called <u>Your Team</u>. When setting up the agency we really wanted to be there for our clients when they needed us most. Not with an excessive bill but an understanding that we are in this together – through the bad and also the good! This is our brand and it is engrained in us like Brighton Rock.</p>
-                            <p>We offer a range of affordable monthly digital support packages so there's no scary surprises and also offer a range of services to keep your website or digital product online, earning you money and attracting leads.</p>
-                            <p id="web-services">Discover more about our digital support services below.</p>
+                            <p>I like to become extension of <u>Your Team</u>. I've always prided myself on being there for my client when they needed me most. Not with an excessive bill but an understanding that we are in this together – through the bad and also the good! This is my brand and it is engrained in me like Brighton Rock.</p>
+                            <p>WI offer a range of affordable monthly digital support packages so there's no scary surprises and also offer a range of services to keep your website or digital product online, earning you money and attracting leads.</p>
+                            <p id="web-services">Discover more about my digital support services below.</p>
                         </article>
                     </div>
                 </div>
