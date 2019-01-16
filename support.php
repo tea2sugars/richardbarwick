@@ -96,14 +96,14 @@
                                         <div class="grid-list-content">
 
                                             <h5>Consultancy</h5>
-                                            <p>The success of our agency depends on the success of our projectss. We work collaboratively with our clients and provide our best advice throughout every stage of your project and beyond.</p>
+                                            <p>My career and livelihood depends on the success I can deliver with your projects. I work collaboratively with my clients and provide our best advice throughout every stage of your project and beyond.</p>
                                         </div>
                                     </li>
                                     
                                     <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>Support Agreements</h5>
-                                            <p>Once we've launched your project we continue to support you and your product so you know how to use it and the product continues to work with you.</p>
+                                            <p>Once i've launched your project i'll continue to support you and your product so you know how to use it and the product continues to work with you.</p>
                                         </div>
                                     </li>
                                     
@@ -111,32 +111,32 @@
                                         <div class="grid-list-content">
 
                                             <h5>Ticket Tracking &amp; Milestone Reports</h5>
-                                            <p>Working with Project Management tools such as Unfuddle we work with clients to raise, track and report on their project to keep everyone accountable and ensure a level of transparency throughout the project.</p>
+                                            <p>Working with Project Management tools I work with clients to raise, track and report on their project to keep everyone accountable and ensure a level of transparency throughout the project.</p>
                                         </div>
                                     </li>
                                     
                                     <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>30 Day Grace Period</h5>
-                                            <p>All our development projects come with 30 day grace period where we'll help iron out any bugs or issues that may have come to surface post-launch</p>
+                                            <p>All my development projects come with 30 day grace period where wi'll help iron out any bugs or issues that may have come to surface post-launch</p>
                                         </div>
                                     </li>
                                     <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>Security Updates</h5>
-                                            <p>The digital world is growing and an exponential rate. It is inevitable that it'll attract unfavourable characters to ruin it for everyone else. We monitor social media and support forums to ensure our solutions are up-to-date and secure to protect your business and your brand.</p>
+                                            <p>The digital world is growing and an exponential rate. It is inevitable that it'll attract unfavourable characters to ruin it for everyone else. I help monitor social media and support forums to ensure my solutions are up-to-date and secure to protect your business and your brand.</p>
                                         </div>
                                     </li>
                                     <li class="list-indent col-sm-4 m-b-20 grid-list-item">
                                         <div class="grid-list-content">
                                             <h5>Hosting</h5>
-                                            <p>Where your digital platform is hosted is one of the most essential elements contributing to it's success and is often overlooked. We work with industry-leading hosting providers to give you peace of mind.</p>
+                                            <p>Where your digital platform is hosted is one of the most essential elements contributing to it's success and is often overlooked. I work with industry-leading hosting providers to give you peace of mind.</p>
                                         </div>
                                     </li>
 
                                 </ul>
                             </p>
-                             <div class="text-center"> <a href="portfolio" class="btn btn-lg btn-y btn-round">View our Digital Design work</a></div>
+                             <div class="text-center"> <a href="portfolio" class="btn btn-lg btn-y btn-round">View my Digital Design work</a></div>
                         </article>
 
                     </div>
@@ -151,7 +151,7 @@
                     <div class="col-sm-8 col-sm-offset-2">
                         <p>It's never been more important to engage with your audience via a mixture of digital channels, whether that's your website, app, email marketing or social networking.</p>
                             
-                            <p>Get in touch if you have something you want to have a chat about regarding your digital world and let's see how we can help you with your project.</p>
+                            <p>Get in touch if you have something you want to have a chat about regarding your digital world and let's see how I can help you with your project.</p>
                         </article>
                         <a href="contact" class="btn btn-d btn-round">Contact Us</a>
                             <!-- DIVIDER -->
