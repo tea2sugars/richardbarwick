@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="A London, Surrey & Suffolk based Website Design Agency working on Responsive Website Design, App Design, UX Design, Drupal Development">
+    <meta name="description" content="A London, Surrey & Suffolk based Website Design Agency working on Responsive Website Design, App Design, UX Design, WordPress Development">
     <meta name="author" content="">
 
-    <title>Web Design & Digital Design | Rik Barwick based in London and Suffolk</title>
+    <title>Web Design & Development | Rik Barwick based in London and Suffolk</title>
 
     <?php include( 'assets/php/includes/head-css.html');?>
 

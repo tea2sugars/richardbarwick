@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Creativitea: A digital design agency that delivers holistic digital marketing campaigns centered around your data and your users.">
-    <meta name="author" content="Creativitea">
+    <meta name="description" content="Rik Barwick: A digital design consultant that delivers holistic digital marketing campaigns centered around your data and your users.">
+    <meta name="author" content="Rik Barwick">
 
     <title>Digital Marketing Agency | Digital Marketing Strategy | Creativitea</title>
 
@@ -46,7 +46,7 @@
 
                     <div class="col-sm-6 col-sm-offset-3">
 
-                        <h1 class="module-title align-center">Digital Marketing & Strategy</h1>
+                        <h1 class="module-title align-center">Digital Marketing &amp; Strategy</h1>
 
                         <div class="module-subtitle align-center">
                             <p class="lead">Helping your digital channels grow and convert</p>

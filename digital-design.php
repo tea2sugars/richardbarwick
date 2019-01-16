@@ -6,7 +6,7 @@
 	<meta name="description" content="A London, Surrey & Suffolk based Digital Design Agency working on Website Design, Social Media, Digital Marketing and SEO">
 	<meta name="author" content="">
 	
-	<title>Digital Design | London Digital Design Agency | Creativitea</title>
+	<title>Freelance Digital Designer, Suffolk & London| Rik Barwick</title>
 	
 		<?php include('assets/php/includes/head-css.html');?>
 
@@ -35,10 +35,10 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">Digital & Website Design</h1>
+						<h1 class="module-title align-center">Freelance Website Design</h1>
 
 						<div class="module-subtitle align-center">
-							<p class="lead">Delivering your brand message and your product marketing instantly anywhere in the world.</p>
+							<p class="lead">Helping deliver your brand message and your product marketing instantly anywhere in the world.</p>
 							<a class="btn btn-lg btn-y btn-round" href="#digital-services"><i class="fa fa-arrow-down"></i> Learn more</a>
 
 						</div>

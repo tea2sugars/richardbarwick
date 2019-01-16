@@ -6,7 +6,7 @@
 	<meta name="description" content="Creativitea was established in 2008 to help brands work stronger across their communication channels. This is their story.">
 	<meta name="author" content="">
 	
-	<title>About Us | Creativitea - A brand, digital and print design agency</title>
+	<title>About Me | Rik Barwick - A freelance website design consultant</title>
 	
 		<?php include('assets/php/includes/head-css.html');?>
 
