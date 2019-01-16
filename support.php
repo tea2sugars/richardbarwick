@@ -194,7 +194,7 @@
     <section class="module-small p-t-20 p-b-40 p-t-sm-0" id="portfolio">
         <div class="container-fluid">
             <div class="row">
-                <h2 class="align-center">Some of our Website Design Projects</h2>
+                <h2 class="align-center">Some of my Website Design Projects</h2>
             </div>
             <div class="row">
                 <!-- PORTFOLIO LIST -->
@@ -225,7 +225,7 @@
                             <div class="work-caption">
                                 <h3 class="work-title ">Buyapowa Social Commerce SAAS Platform</h3>
                                 <div class="work-descr ">
-                                    UX & Website Design
+                                    UX &amp; Website Design
                                 </div>
                             </div>
                         </a>
