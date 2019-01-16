@@ -18,18 +18,18 @@
         <section class="module-hero module-parallax module-fade module-full-height bg-dark-30" id="home">
             <div class="hs-caption container">
                 <div class="caption-content">
-                    <div class="col-md-7 col-md-offset-1 col-lg-6 col-lg-offset-1">
+                    <div class="col-md-8 col-md-offset-1 col-lg-7 col-lg-offset-1">
                         <h1>
 	                        <span class="yellow">–</span><br>
 		                    Need a Freelance Website Designer?<br/>
-		                    <small>Look no further! My name is Rik and i'm an experienced Freelance Website Designer &amp; developer. I am based in Suffolk and work for clients around the globe.<br/>I design. I code. I do.<br/></small>
+		                    <small>Look no further! My name is Rik and i'm an experienced Designer &amp; developer. I am based in Suffolk and work for clients around the globe.<br/>I design. I code. I do.<br/></small>
 		                    <span class="yellow">–</span>
 		                </h1>
 		                
 			            <a class="btn btn-y btn-round btn-lg" href="portfolio">View my portfolio</a> &nbsp; <a class="btn btn-y btn-round btn-lg" href="https://drive.google.com/file/d/14r9MMkP9JUI54rt05Q66d0I2ISRt7b2E/view?usp=sharing">Download my CV</a>		             
                         
                     </div>
-                    <div class="col-md-7 col-md-offset-1 col-lg-6 col-lg-offset-1" id="photo-credit">
+                    <div class="col-md-8 col-md-offset-1 col-lg-7 col-lg-offset-1" id="photo-credit">
 	                    <p style="font-size:11px;">Photo Credit: <a href="https://www.instagram.com/i_am_mr_sedders/" target="_blank">Simon Edwards.</a><br/>Taken at Do Lectures 2015</p>
                     </div>
 
