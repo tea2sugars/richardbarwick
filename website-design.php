@@ -71,19 +71,13 @@
 								<p>I pride myself on being able to design clients beautiful design solutions with technical knowhow to backup our thought and strategy. Discover more about our digital services below;</p>
 								<p>
 									<ul>
+										
 										<li class="list-indent">
-											<h5><a href="web-design" title="Website Design and Development">
-												Website Design & Development
-											</a></h5>
-											<p>Designing user experiences for websites, apps and digital products</p>
-											
-										</li>
-										<li class="list-indent">
-											<h5><a href="digital-marketing" title="Digital Marketing">Digital Marketing</a></h5>
+											<h5><a href="digital-marketing" title="Digital Marketing">Digital Marketing Support</a></h5>
 											<p>Helping you drive traffic, drive sales and convert your users into leads</p>
 										</li>
 										<li class="list-indent">
-											<h5><a href="support" title="Client Support">Service & Support</a></h5>
+											<h5><a href="support" title="Client Support">Client Support</a></h5>
 											<p>Giving you the help you need for your digital solutions to run smoothly</p>
 										</li>
 									</ul>

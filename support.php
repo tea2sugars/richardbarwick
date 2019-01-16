@@ -163,13 +163,13 @@
 	                            	<ul>
 										<li class="list-indent">
 											<h5><a href="web-design" title="Website Design and Development">
-												Website Design & Development
+												Freelance Website Design &amp; Development
 											</a></h5>
 											<p>Designing user experiences for websites, apps and digital products</p>
 											
 										</li>
 										<li class="list-indent">
-											<h5><a href="digital-marketing" title="Digital Marketing">Digital Marketing</a></h5>
+											<h5><a href="digital-marketing" title="Digital Marketing">Digital Marketing Support</a></h5>
 											<p>Helping you drive traffic, drive sales and convert your users into leads</p>
 										</li>
 									

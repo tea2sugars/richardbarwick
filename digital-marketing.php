@@ -165,15 +165,15 @@
                             <p>
 	                            	<ul>
 										<li class="list-indent">
-											<h5><a href="web-design" title="Website Design and Development">
-												Website Design & Development
+											<h5><a href="website-design" title="Website Design and Development">
+												Freelance Website Design &amp; Development
 											</a></h5>
 											<p>Designing user experiences for websites, apps and digital products</p>
 											
 										</li>
 										
 										<li class="list-indent">
-											<h5><a href="support" title="Client Support">Service & Support</a></h5>
+											<h5><a href="support" title="Client Support">Client Support</a></h5>
 											<p>Giving you the help you need for your digital solutions to run smoothly</p>
 										</li>
 									</ul>
