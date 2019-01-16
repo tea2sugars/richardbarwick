@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="A London, Surrey & Suffolk based Website Design Agency working to support our clients with elegant design and excellent client services.">
+    <meta name="description" content="A London & Suffolk based Website Design Consultant working to support clients with elegant design and excellent client services.">
     <meta name="author" content="">
 
     <title>Web Design Business Support | Rik Barwick</title>
