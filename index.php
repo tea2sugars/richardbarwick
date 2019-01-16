@@ -22,7 +22,7 @@
                         <h1>
 	                        <span class="yellow">–</span><br>
 		                    Need a Freelance Website Designer?<br/>
-		                    <small>Look no further! My name is Rik and i'm an experienced Designer &amp; developer. I am based in Suffolk and work for clients around the globe.<br/>I design. I code. I do.<br/></small>
+		                    <small>Look no further! My name is Rik and i'm an experienced designer &amp; developer who works for clients and start-ups located around the world.<br/>I design. I code. I do.<br/></small>
 		                    <span class="yellow">–</span>
 		                </h1>
 		                
