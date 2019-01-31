@@ -52,31 +52,48 @@ window._fbq.push(['track', '6038156343123', {'value':'0.01','currency':'GBP'}]);
 						<p class="lead">Smoke Signals&hellip;</p>
 							<p>Smoke Signals are probably the oldest forms of long-distance visual communication. Native American's used to light smokey fires and use the smoke to spread news and warnings and to call people together for gatherings.</p>
 							<p>Whilst the idea of lighting a fire and getting together for some kind of tribal gathering / creative meeting sounds great, Life is a lot simpler now, just use the devices below to say hello and i'll get back to you as soon as possible!</em></p>
-							<h3>Say hello by&hellip;</h3>
-						<div itemscope itemtype="https://schema.org/LocalBusiness">
-							<article class="col-xs-12 col-md-6">
-								<h4>Phone</h4>
-								<p class="lead"><span itemprop="telephone">07802 530 465</span></p>
-							</article>
-							<article class="col-xs-12 col-md-6">
-								<h4>Email</h4>
-								<p class="lead"><a href="mailto:richard.barwick@googlemail.com">richard.barwick@googlemail.com</a></p>
-							</article>
-							<article>
-								<h3>You can also find me on&hellip;</h3>
-								<h2>
-									<a href="https://twitter.com/tea2sugars" target="_blank"><i class="fa-twitter fa-icons fa" aria-label="Twitter"></i></a>
-									
-									<a href="https://instagram.com/tea2sugars" target="_blank"><i class="fa-instagram fa-icons fa" aria-label="Instagram"></i></a> 
-									
-									<a href="https://github.com/tea2sugars" target="_blank"><i class="fa-github fa-icons fa" aria-label="GitHub"></i></a> 
-									
-									<a href="https://www.linkedin.com/" target="_blank"><i class="fa-linkedin-square fa-icons fa" aria-label="LinkedIn"></i></a>
-								</h2>
-							</article>
 							
+					</div>
+				</div>
+			</div>
+			<div class="container">			
+					<div class="row">
+						<div class="col-sm-6 col-md-6 col-lg-offset-1 col-lg-6">
+							<h3>Leave me a message&hellip;</h3>
+							<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+							<script>
+							  hbspt.forms.create({
+								portalId: "5411762",
+								formId: "59b4d18a-101c-4e6e-8859-3e922749fe7e"
+							});
+							</script>
+						</div>
+						<div class="col-sm-6 col-md-6 col-lg-5">
+							<h3>Or say hello by&hellip;</h3>
+							<div itemscope itemtype="https://schema.org/LocalBusiness">
+								<article>
+									<h4>Phone</h4>
+									<p class="lead"><span itemprop="telephone">07802 530 465</span></p>
+								
+									<h4>Email</h4>
+									<p class="lead"><a href="mailto:richard.barwick@googlemail.com">richard.barwick@googlemail.com</a></p>
+								</article>
+								<article>
+									<h3>You can also find me on&hellip;</h3>
+									<h2>
+										<a href="https://twitter.com/tea2sugars" target="_blank"><i class="fa-twitter fa-icons fa" aria-label="Twitter"></i></a>
+										
+										<a href="https://instagram.com/tea2sugars" target="_blank"><i class="fa-instagram fa-icons fa" aria-label="Instagram"></i></a> 
+										
+										<a href="https://github.com/tea2sugars" target="_blank"><i class="fa-github fa-icons fa" aria-label="GitHub"></i></a> 
+										
+										<a href="https://www.linkedin.com/" target="_blank"><i class="fa-linkedin-square fa-icons fa" aria-label="LinkedIn"></i></a>
+									</h2>
+								</article>
+							</div>
 						</div>
 					</div>
+				</div>
 												
 
 					</div>
