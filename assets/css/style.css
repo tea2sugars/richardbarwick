@@ -531,6 +531,13 @@ blockquote {
     line-height: 1;
 }
 
+@media (min-width: 768px) {
+	.navbar-brand {
+	    max-width: 125px;
+		padding: 5px 10px 5px 0;
+	}
+}
+
 .navbar-transparent .navbar-brand img {
 	filter: invert(1);
 }
