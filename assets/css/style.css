@@ -524,10 +524,11 @@ blockquote {
 
 .navbar-brand {
 	text-transform: none !important;
-	width: 100%;
-	max-width: 120px;
-	height:auto;
-	padding: 0px;
+    width: 100%;
+    max-width: 90px;
+    height: auto;
+    padding: 5px 10px;
+    line-height: 1;
 }
 
 .navbar-transparent .navbar-brand img {
