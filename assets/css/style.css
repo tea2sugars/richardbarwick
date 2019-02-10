@@ -528,6 +528,10 @@ blockquote {
 	padding: 0px;
 }
 
+.navbar-transparent .navbar-brand img {
+	filter: invert(1);
+}
+
 .navbar-custom .nav li > a {
 	position: relative;
 	color: #000;
