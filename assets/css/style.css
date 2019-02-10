@@ -524,6 +524,8 @@ blockquote {
 
 .navbar-brand {
 	text-transform: none !important;
+	max-width: 110px;
+	padding: 0px;
 }
 
 .navbar-custom .nav li > a {
