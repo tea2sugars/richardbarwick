@@ -525,7 +525,7 @@ blockquote {
 .navbar-brand {
 	text-transform: none !important;
     width: 100%;
-    max-width: 100px;
+    max-width: 110px;
     height: auto;
     padding: 5px 10px;
     line-height: 1;
