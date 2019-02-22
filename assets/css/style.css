@@ -539,7 +539,7 @@ blockquote {
 }
 
 .navbar-transparent .navbar-brand img {
-	filter: invert(1);
+	filter: invert(1.5);
 }
 
 .navbar-custom .nav li > a {
