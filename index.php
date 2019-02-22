@@ -22,7 +22,7 @@
                         <h1>
 	                        <span class="yellow">–</span><br>
 		                    Need a Freelance Website Designer?<br/>
-		                    <small>Look no further! My name is Rik and i'm an experienced designer &amp; developer who works for clients and start-ups located around the world.<br/>I design. I code. I do.<br/></small>
+		                    <small>Look no further! My name is Rik and i'm an experienced web designer proudly based in Suffolk. I work for clients and start-ups located around the world.<br/>I design. I code. I do.<br/></small>
 		                    <span class="yellow">–</span>
 		                </h1>
 		                
@@ -30,7 +30,7 @@
                         
                     </div>
                     <div class="col-md-8 col-md-offset-1 col-lg-7 col-lg-offset-1" id="photo-credit">
-	                    <p style="font-size:11px;">Photo Credit: <a href="https://www.instagram.com/i_am_mr_sedders/" target="_blank">Simon Edwards.</a><br/>Taken at Do Lectures 2015</p>
+	                    <p style="font-size:11px;">Photo Credit: <a href="https://frances-foster.co.uk/" target="_blank">Frances Foster.</a></p>
                     </div>
 
 				</div>
