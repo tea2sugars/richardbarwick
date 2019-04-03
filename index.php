@@ -321,12 +321,6 @@
                         </article>
                     </div>
 
-
-                    <div class="row m-t-40">
-                        <div class="text-center">
-                            <a class="btn btn-y btn-round btn-lg" href="mailto:richard.barwick@googlemail.com">Contact me for availability</a>
-                        </div>
-                    </div>
                 </div>
             </section>
             <?php include('assets/php/includes/testimonial.html');?>
