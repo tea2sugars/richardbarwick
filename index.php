@@ -19,15 +19,19 @@
             <div class="hs-caption container">
                 <div class="caption-content">
                     <div class="col-md-8 col-md-offset-1 col-lg-7 col-lg-offset-1">
-                        <h1>
+                        <h2>
 	                        <span class="yellow">–</span><br>
-		                    Need a Freelance Website Designer?<br/>
-		                    <small>Look no further! My name is Rik and i'm an experienced web designer proudly based in Suffolk. I work for clients and start-ups located around the world.<br/>I design. I code. I do.<br/></small>
+		                    	Creative Website Design & Front-end Development<br/>
 		                    <span class="yellow">–</span>
-		                </h1>
+		                </h2>
+		                <p class="lead">
+			                My name is Rik Barwick and I am an award-winning freelance web designer proudly based on a hill in Suffolk.
+		                </p>
+		                <p class="lead">
+			                I work with businesses ranging from startups and SMEs to large corporates. I provide my clients with digital solutions to real problems.
+		                </p>
 		                
-			            <a class="btn btn-y btn-round btn-lg" href="portfolio">View my portfolio</a> &nbsp; <a class="btn btn-y btn-round btn-lg" href="https://drive.google.com/file/d/14r9MMkP9JUI54rt05Q66d0I2ISRt7b2E/view?usp=sharing">Download my CV</a>		             
-                        
+			            <a class="btn btn-y btn-round btn-lg" href="contact">Arrange a call</a> &nbsp; <a class="btn btn-y btn-round btn-lg" href="portfolio">View my portfolio</a>                          
                     </div>
                     <div class="col-md-8 col-md-offset-1 col-lg-7 col-lg-offset-1" id="photo-credit">
 	                    <p style="font-size:11px;">Photo Credit: <a href="https://frances-foster.co.uk/" target="_blank">Frances Foster.</a></p>
@@ -38,27 +42,88 @@
         </section>
         
 
-            <section id="portfolio" class="module-small dark-section">
+            <section class="light-grey-section">
                 <div class="container">
-		            <div class="row">
-		                <div class="col-sm-3 col-sm-offset-1 align-right">
-		                    <h3>My Design Services</h3>
-		                </div>
-		            
-		                <div class="col-sm-6">
-		                    <p class="lead"><span class="yellow">–</span>
-		                        <br>I'm an award-winning designer who believes that great classic design can provoke change and outlive trends.	
-		                    </p>
-		                    <p class="lead">I help get clients get noticed and grow by getting to know their culture and celebrating what makes them great. I then translate this into their work and help deliver against their KPI's.</p>
-		                    <p class="lead">I am independent, flexible and hungry to work for clients of all shapes and sizes. Here are some examples of my work.
-			                    <br/>
+		            <div class="row module-header">
+		                <div class="col-sm-12 col-md-8 col-md-offset-2 align-center">
+		                    <h1>Freelance Website Designer</h1>
+		                     <p class="lead"><span class="yellow">–</span>
+		                        <br>I have been designing websites since 2001 and have built up a wide skillset including UX/UI Design, HTML/CSS coding, CMS Development including WordPress and Shopify.
+		                        <br/>
 			                    <span class="yellow">–</span>
 		                    </p>
 		                </div>
 		            </div>
+               <div class="module-small">
+		             <div class="row">
+		                <div class="col-sm-12 col-md-8 col-md-offset-2 align-center">
+		                    <h3>Why hire me to design your website?</h3>
+		                    <p class="lead"><span class="yellow">–</span>
+		                        <br/>
+		                        There are many web designers and developers out there; Designers with different specialties and acronyms. Agencies of all shapes sizes. Here's why you need to speak with me...
+		                        <br/>
+			                    <span class="yellow">–</span>
+		                    </p>
+		                </div>
+		            </div>
+		            
+		            <div class="row">
+			            
+			            <div class="col-md-4">
+				            <h4>I design. I code. I do</h4>
+				            <p>I pride myself in designing digital products that are both functional and beautiful. Creating a lasting impression with your audience.</p>
+			            </div>
+			           
+			            <div class="col-md-4">
+				            <h4>Delivering measurable success</h4>
+				            <p>I design solutions to help my clients deliver on their business objectives. Whether that's increase sales and user interaction or improving performance. I help deliver true value to your business.</p>
+			            </div>
+			            <div class="col-md-4">
+				            <h4>Responsive website design</h4>
+				            <p>I create fully responsive websites and user experiences across multiple platforms and devices.</p>
+			            </div>
+			            
+		            </div>
+		            
+		             <div class="row">
+			            
+			            <div class="col-md-4">
+				            <h4>Plan. Create. Build. Learn. Repeat</h4>
+				            <p>Despite not being an "agency" I provide the full service you expect but without the price tag.</p>
+			            </div>
+			            <div class="col-md-4">
+				            <h4>Customer Service</h4>
+				            <p>You can get in touch with me at anytime for support with your website even after launch. I'll always do my upmost to help.</p>
+			            </div>
+			            <div class="col-md-4">
+				            <h4>Ethics &amp; Values</h4>
+				            <p>I am open and honest - it's the only way to be.</p>
+			            </div>
+			            
+			            
+		            </div>
+		            
+		            <div class="row">
+		                <div class="col-sm-12 col-md-8 col-md-offset-2 align-center">
+		                    <p class="lead">
+			                    <span class="yellow">–</span>
+		                        <br/>
+		                        Sounds good right! If you would like my help with your project or join your team please contact me today so we can arrange an appointment.
+		                        <br/>
+			                    <span class="yellow">–</span>
+			                    
+		                    </p>
+		                    <a class="btn btn-y btn-round btn-lg" href="contact">Arrange a meeting</a>
+		                </div>
+		            </div>
+		           
+		            
+               </div>
+		            
 		        </div>
+            </section>
 
-	            
+	        <section id="portfolio">    
                 <div class="container-fluid">
                     <div class="row">
                         <ul class="works-grid works-grid-3 works-hover-w" id="works-grid">

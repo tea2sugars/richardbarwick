@@ -360,7 +360,7 @@ a,.btn,.navbar a {
 }
 
 .bg-light {
-	background: rgba(234,234,234,0.7);
+	background: #eaeaea;
 }
 
 .bg-light-30:before {
@@ -411,11 +411,11 @@ a:hover,a:focus {
 	color: #fff;
 	text-decoration: underline;
 }
-h1,h2 {
+h1,h2, h3 {
 	font-family: 'Lora', serif;
 }
 
-h3,h4,h5,h6 {
+h4,h5,h6 {
 	line-height: 1.4;
 	font-weight: 500;
 	font-family: 'open-sans', helvetica, arial, sans-serif;
@@ -701,7 +701,7 @@ blockquote {
 }
 
 .module-header {
-	padding: 190px 0 140px;
+	padding: 190px 0 40px 0;
 }
 
 .col-bg {
