@@ -8,7 +8,7 @@
     <meta content="Freelance Digital Designer specialising in UI Design and Brand" name="description">
     <meta name="keywords" content="UI Designer, UX Designer, Web Design, Website Design, Digital Agency, Lean Digital Agency, Remote Designer, Senior Designer, Freelance">
 
-    <title>Rik Barwick - Freelance Website Designer providing UI Design & Development | London &amp; Suffolk</title>
+    <title>Rik Barwick - Freelance Digital Designer specialising in UI Design</title>
     <?php include('assets/php/includes/head-css.html');?>
 </head>
 
