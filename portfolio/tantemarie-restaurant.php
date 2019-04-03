@@ -69,7 +69,6 @@
 							<ul>
 								<li><strong>Client: </strong>Tante Marie Culinary Academy & Restaurant</li>
 								<li><strong>Project: </strong>Responsive Website Design & Development, Bootstrap, Perch CMS</li>
-								<li><strong>Online: </strong><a href="http://www.tantemarierestaurant.co.uk" target="_blank">tantemarierestaurant.co.uk/</a></li>
 								<li><strong>Budget: </strong>££££</li>
 								<!--<li><strong>Testimonial: </strong>
 									<br/>
