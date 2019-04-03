@@ -48,7 +48,7 @@
 		                <div class="col-sm-12 col-md-8 col-md-offset-2 align-center">
 		                    <h1>Freelance Website Designer</h1>
 		                     <p class="lead"><span class="yellow">–</span>
-		                        <br>I have been designing websites since 2001 and have built up a wide skillset including UX/UI Design, HTML/CSS coding, CMS Development including WordPress and Shopify.
+		                        <br>I have been designing websites since 2001 and have built up a wide skillset including UX/UI Design, HTML &amp; CSS, CMS Development including WordPress and Shopify.
 		                        <br/>
 			                    <span class="yellow">–</span>
 		                    </p>
