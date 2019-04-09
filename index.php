@@ -25,10 +25,10 @@
 		                    <span class="yellow">–</span>
 		                </h2>
 		                <p class="lead">
-			                My name is Rik Barwick and I am an award-winning freelance web designer proudly based on a hill in Suffolk.
+			                My name is Rik Barwick and I am an award-winning freelance web designer. I am proudly based on a hill just outside Bury St Edmunds in Suffolk.
 		                </p>
 		                <p class="lead">
-			                I work with businesses ranging from startups and SMEs to large corporates. I provide my clients with digital solutions to real problems.
+			                I work with businesses of all shapes and sizes. From SMEs, startups and large corporates. With my extensive experience I provide my clients with digital solutions to real problems.
 		                </p>
 		                
 			            <a class="btn btn-y btn-round btn-lg" href="contact">Arrange a call</a> &nbsp; <a class="btn btn-y btn-round btn-lg" href="portfolio">View my portfolio</a>                          
@@ -46,9 +46,9 @@
                 <div class="container">
 		            <div class="row module-header">
 		                <div class="col-sm-12 col-md-8 col-md-offset-2 align-center">
-		                    <h1>Freelance Website Designer</h1>
+		                    <h1>Freelance Website Design</h1>
 		                     <p class="lead"><span class="yellow">–</span>
-		                        <br>I have been designing websites since 2001 and have built up a wide skillset including UX/UI Design, HTML &amp; CSS, CMS Development including WordPress and Shopify.
+		                        <br>I have been designing websites and digital products since 2001 and have built up a wide skillset. This includes UI (User Interface) Design, UX (User Experience) Design, HTML &amp; CSS, CMS Development including WordPress and Shopify.
 		                        <br/>
 			                    <span class="yellow">–</span>
 		                    </p>
@@ -71,16 +71,16 @@
 			            
 			            <div class="col-md-4">
 				            <h4>I design. I code. I do</h4>
-				            <p>I pride myself in designing digital products that are both functional and beautiful. Creating a lasting impression with your audience.</p>
+				            <p>I pride myself in designing digital products that are both functional and beautiful. With expert knowledge of how websites actually work i am able to create an online presence that gives a lasting impression with your audience.</p>
 			            </div>
 			           
 			            <div class="col-md-4">
 				            <h4>Delivering measurable success</h4>
-				            <p>I design solutions to help my clients deliver on their business objectives. Whether that's increase sales and user interaction or improving performance. I help deliver true value to your business.</p>
+				            <p>I design solutions to help my clients deliver on their business objectives. Whether that's increase sales and user interaction or improving site performance. I help deliver true value to your business.</p>
 			            </div>
 			            <div class="col-md-4">
 				            <h4>Responsive website design</h4>
-				            <p>I create fully responsive websites and user experiences across multiple platforms and devices.</p>
+				            <p>I create fully responsive websites that work across multiple platforms and devices. My knowledge of Search Engine Optimisation techniques ensure your website is build correctly and works.</p>
 			            </div>
 			            
 		            </div>
@@ -89,15 +89,15 @@
 			            
 			            <div class="col-md-4">
 				            <h4>Plan. Create. Build. Learn. Repeat</h4>
-				            <p>Despite not being an "agency" I provide the full service you expect but without the price tag.</p>
+				            <p>I love to learn! Using a range of techniques I design digital solutions that centre around your brand, your users and their behaviours online</p>
 			            </div>
 			            <div class="col-md-4">
 				            <h4>Customer Service</h4>
-				            <p>You can get in touch with me at anytime for support with your website even after launch. I'll always do my upmost to help.</p>
+				            <p>Despite not being an "agency" I provide the full service you expect - but without the price tag. You can get in touch with me at anytime for support with your website even after launch. I'll always do my upmost to help.</p>
 			            </div>
 			            <div class="col-md-4">
 				            <h4>Ethics &amp; Values</h4>
-				            <p>I am open and honest - it's the only way to be.</p>
+				            <p>I've worked for some of my clients for over a decade, it's because I pride myself in my honesty and hard working values - it's the only way to be.</p>
 			            </div>
 			            
 			            
