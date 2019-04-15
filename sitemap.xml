@@ -9,7 +9,7 @@
 
 <url>
   <loc>https://www.rikbarwick.co.uk/</loc>
-  <lastmod>2018-04-12T20:19:20+00:00</lastmod>
+  <lastmod>2019-04-15T20:19:20+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
@@ -24,12 +24,12 @@
 </url>
 <url>
   <loc>https://www.rikbarwick.co.uk/digital-design</loc>
-  <lastmod>2018-04-12T20:19:20+00:00</lastmod>
+  <lastmod>2019-04-15T20:19:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.rikbarwick.co.uk/website-design</loc>
-  <lastmod>2018-04-12T20:19:20+00:00</lastmod>
+  <lastmod>2019-04-15T20:19:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -39,7 +39,7 @@
 </url>
 <url>
   <loc>https://www.rikbarwick.co.uk/contact</loc>
-  <lastmod>2018-04-12T20:19:20+00:00</lastmod>
+  <lastmod>2019-04-15T20:19:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -139,9 +139,16 @@
 </url>
 <url>
   <loc>https://www.rikbarwick.co.uk/digital-marketing</loc>
-  <lastmod>2018-04-12T20:19:20+00:00</lastmod>
+  <lastmod>2019-04-15T20:19:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
+<url>
+  <loc>https://www.rikbarwick.co.uk/shopify-theme-development</loc>
+  <lastmod>2019-04-15T20:19:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 
 
 </urlset>
