@@ -109,6 +109,7 @@ This in essence saves your businesses money and time as a basic store could be t
                     </div>
                     
                     <aside class="col-md-4">
+	                    <h2>Get in touch</h2>
 	                    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 							<script>
 							  hbspt.forms.create({
