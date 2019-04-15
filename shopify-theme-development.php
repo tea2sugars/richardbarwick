@@ -74,7 +74,7 @@
                             <h2>What is Shopify?</h2>
                             <p><a href="https;//www.shopify.com" target="_blank">Shopify</a> is a hosted e-commerce platform for businesses catering for small cottage industries to large online stores. It is a subscription based service paying as little as £25 a month plus a small transaction fee. At the time of writing there are over 500,000 Shopify stores doing business contributing to over $40 billion worth of sales worldwide.</p>
 							<h3>Why use Shopify as a hosted solution?</h3>
-                            <p>Using a hosted solution basically means that Shopify owns the back-end code - The nuts and bolts of what makes their stores work and trade securely. This includes;
+                            <p>Using a hosted solution basically means that Shopify owns the back-end code - The nuts and bolts of what makes their stores work and trade securely. This allows you to take advantage of all they have to offer;
 
 <ul>
 	<li>Secure hosted environment with Shopify’s <a href="https://www.shopify.co.uk/pci-compliant" target="_blank">Certified Level 1 PCI DSS compliance</a></li>
@@ -83,14 +83,15 @@
 	<li>Payment Gateway so no delays from your bank</li>
 	<li>Extendable functionality thanks to their free and premium plugins</li>
 	<li>Simple usability for your store managers</li>
+	<li>And much more...</li>
 </ul>
 
 This in essence saves your businesses money and time as a basic store could be trading in a matter of days - not months.</p>
 						<h3>Ease of use</h3>
 						<p>Shopify provide an excellent host of <a href="https://help.shopify.com/" target="_blank">training resources</a> and videos to help you manage your stores. As part of my service I will introduce you to the platform and show you how to add content to your store and manage your sales.</p>
-						<h3></h3>
-						<p>To get the most out of Shopify you will need to ‘theme’ your store. This is the part of the process that sets it apart from your competitors, utilising your brand and product assets to have a welcoming online store.
-						<h3>Shopify development</h3>
+						<h3>Shopify theme development</h3>
+						<p>To get the most out of Shopify you will need to ‘theme’ your store. This is the part of the process that sets it apart from your competitors, utilising your brand and product assets to have a welcoming online store.</p>
+						
 						<p>As a <a href="https://www.shopify.co.uk/partners" target="_blank">Shopify Partner</a> I like to work on bespoke themes when budget permits. I do understand that budget is not always plentiful. There are a few base-themes that are easy to install and customise to suit lower budgets but as with any website I like to follow my usual design process;</p>
 						
 						<ul>
