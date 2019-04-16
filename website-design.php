@@ -79,7 +79,7 @@
 								
 						<h3>Creative digital design solutions</h3>
 						
-						<p>I pride myself on being able to design clients beautiful design solutions with technical knowhow to backup our thought and strategy. Discover more about our digital services below;</p>
+						<p>I pride myself on being able to design clients beautiful design solutions with technical knowhow to backup our thought and strategy. Discover more about my digital services below;</p>
 								<p>
 									<ul>
 										
@@ -90,6 +90,10 @@
 										<li class="list-indent">
 											<h5><a href="support" title="Client Support">Client Support</a></h5>
 											<p>Giving you the help you need for your digital solutions to run smoothly</p>
+										</li>
+										<li class="list-indent">
+											<h5><a href="shopify-theme-development" title="Shopify Theme Development">Shopify Theme Development</a></h5>
+											<p>Providing clients with e-commerce solutions that are affordable, scalable and fast.</p>
 										</li>
 									</ul>
 								</p>
