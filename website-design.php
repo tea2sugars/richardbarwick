@@ -117,10 +117,9 @@
 	                    <img src="assets/images/rik-profile-image.png" alt="rik-profile-image" width="130" height="130" alt="Rik Barwick Profile" style="width:130px; margin: 0 auto;" >
 	                </div>
 	                <div class="col-md-6">
-		                <h4>My E-Commerce Design Experience</h4>
-		                <p>I have worked in e-commerce since before I completed my degree in 2004 having picked up various clients whilst studying.</p>
-		                <p>During my career have been fortunate enough to work in e-commerce for some of the world’s leading brands having designed experiences for GSK, Electronic Arts, Carphone Warehouse, TalkTalk, HSBC & Habitat.</p>
-		                <p>More recently I have been working start-ups and SMEs to help get them online selling including the build of my own wholesale focused e-commerce website for Hartest Brewing Co.</p>
+		                <h4>My Website Design Experience</h4>
+		                <p>I am a hybrid designer / developer so whilst I love designing digital products - I also like to get under the hood and make things work.</p>
+		                <p>This skillset has allowed me to work on some major websites for some of the countries leading brands as well as independent businesses and charities. I have experience with many CMS and CRM systems including Hubspot, Marketo, WordPress, Shopify, Perch and Drupal.</p>
                         <div> <a href="contact" class="btn btn-lg btn-y btn-round">Book me today!</a></div>
 	                </div>
 	                
