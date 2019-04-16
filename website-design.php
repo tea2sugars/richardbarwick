@@ -144,7 +144,7 @@
     <section class="module-small p-t-20 p-t-sm-0" id="portfolio">
         <div class="container-fluid">
             <div class="row">
-                <h2 class="align-center">Some of my Website Design Projects</h2>
+                <h2 class="align-center">Website Design Projects</h2>
             </div>
             <div class="row" style="margin-top:20px;">
                 <!-- PORTFOLIO LIST -->
