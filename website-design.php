@@ -159,7 +159,7 @@
 
                     <!-- PORTFOLIO ITEM -->
 				<li class="work-item digital ux">
-					<a href="./5mm">
+					<a href="portfolio/5mm">
 						<div class="work-image">
 							<img src="assets/images/projects/5mm_portfolio_thumbnail.jpg" alt="5mm Interior Design Website Design"/>
 						</div>
@@ -175,7 +175,7 @@
 				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item digital ux">
-					<a href="./buyapowa_saas">
+					<a href="portfolio/buyapowa_saas">
 						<div class="work-image">
 							<img src="assets/images/projects/Buyapowa_SAAS_portfolio_thumbnail.jpg" alt="Buyapowa Social Commerce SAAS UX and Design">
 						</div>
@@ -189,7 +189,7 @@
 				</li>
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item digital branding ux">
-					<a href="./maxishop">
+					<a href="portfolio/maxishop">
 						<div class="work-image">
 							<img src="assets/images/projects/maxishop_portfolio_thumbnail.jpg" alt="Maxishop Branding and E-Commerce">
 						</div>
@@ -204,7 +204,7 @@
 				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item digital">
-					<a href="./hallstreet">
+					<a href="portfolio/hallstreet">
 						<div class="work-image">
 							<img src="assets/images/projects/hallst_portfolio_thumbnail.png" alt="Hall Street"/>
 						</div>
