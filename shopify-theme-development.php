@@ -152,7 +152,7 @@ This in essence saves your businesses money and time as a basic store could be t
     <section class="module-small p-t-20 p-b-40 p-t-sm-0" id="portfolio">
         <div class="container-fluid">
             <div class="row">
-                <h2 class="align-center">Some of my Website Design Projects</h2>
+                <h2 class="align-center">E-commerce Design Projects</h2>
             </div>
             <div class="row" style="margin-top:20px;">
                 <!-- PORTFOLIO LIST -->
@@ -190,7 +190,7 @@ This in essence saves your businesses money and time as a basic store could be t
 				</li>
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item digital branding ux">
-					<a href=".portfolio/maxishop">
+					<a href="portfolio/maxishop">
 						<div class="work-image">
 							<img src="assets/images/projects/maxishop_portfolio_thumbnail.jpg" alt="Maxishop Branding and E-Commerce">
 						</div>
