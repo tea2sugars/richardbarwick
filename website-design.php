@@ -98,6 +98,13 @@
 									</ul>
 								</p>
 						<p>I help clients plan, implement and evolve their websites and other digital products so they deliver results. If you have a project you'd like to have a chat about please <a href="contact">get in touch</a></p>
+						
+						
+					<blockquote><span class="yellow lead">&mdash;</span><br/>Rik was easy to work with and took the time to get to know us and our clients, the result is a new website which has helped define our brand and offer our digital frontage the presence it deserves. It is easy to use and something we are very proud off, I hope Rik is too.<br/><span class="yellow lead">&mdash;</span></blockquote> 
+					
+					<cite class="font-uppercase">Ian Beddis | Director at Hall Street</cite>
+
+						
                         </article>
                     </div>
                     
