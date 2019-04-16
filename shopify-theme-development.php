@@ -7,7 +7,7 @@
     <meta name="description" content="Rik Barwick: A Freelance Shopify Developer based in Suffolk, UK">
     <meta name="author" content="Rik Barwick">
 
-    <title>Rik Barwick -Freelance Shopify Theme Developmer</title>
+    <title>Rik Barwick -Freelance Shopify Theme Developer</title>
 
     <?php include( 'assets/php/includes/head-css.html');?>
 
