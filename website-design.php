@@ -118,8 +118,8 @@
 	                </div>
 	                <div class="col-md-6">
 		                <h4>My Website Design Experience</h4>
-		                <p>I am a hybrid designer / developer so whilst I love designing digital products - I also like to get under the hood and make things work.</p>
-		                <p>This skillset has allowed me to work on some major websites for some of the countries leading brands as well as independent businesses and charities. I have experience with many CMS and CRM systems including Hubspot, Marketo, WordPress, Shopify, Perch and Drupal.</p>
+		                <p>I am a hybrid designer / developer so whilst I love designing digital products - I also like to get under the hood and make things work with front-end development (HTML/CSS).</p>
+		                <p>This skillset has allowed me to work on some major websites for some of the countries leading brands as well as independent businesses and charities. I have experience with many CMS and CRM systems including <a href="https://www.hubspot.com" target="_blank">Hubspot</a>, <a href="https://www.marketo.com" target="_blank">Marketo</a>, <a href="https://www.wordpress.com" target="_blank">WordPress</a>, <a href="https://www.shopify.com" target="_blank">Shopify</a>, <a href="https://www.grabaperch.com" target="_blank">Perch</a> and <a href="https://www.drupal.org" target="_blank">Drupal</a>.</p>
                         <div> <a href="contact" class="btn btn-lg btn-y btn-round">Book me today!</a></div>
 	                </div>
 	                
@@ -137,7 +137,7 @@
     <!-- /DIVIDER -->
 
     <!-- PORTFOLIO -->
-    <section class="module-small p-t-20 p-b-40 p-t-sm-0" id="portfolio">
+    <section class="module-small p-t-20 p-t-sm-0" id="portfolio">
         <div class="container-fluid">
             <div class="row">
                 <h2 class="align-center">Some of my Website Design Projects</h2>
@@ -213,12 +213,7 @@
 
     </section>
     <!-- /PORTFOLIO -->
-
-    <!-- DIVIDER -->
-    <hr class="divider-w">
-    <!-- /DIVIDER -->
-		
-		<section class="module-small light-grey-section" id="web-services">
+	<section class="module-small light-grey-section" id="web-services">
 	        <div class="container-fluid">
                 <div class="row">
                     <div class="col-sm-12">
