@@ -37,7 +37,7 @@
     <div class="wrapper">
 
         <!-- HOME -->
-        <section class="module module-header bg-dark bg-dark-50" data-background="assets/images/e-commerce.jpg">
+        <section class="module module-header bg-dark bg-dark-50" data-background="assets/images/digital_header.jpg">
 
             <div class="container">
 
