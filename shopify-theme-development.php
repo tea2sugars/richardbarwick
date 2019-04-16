@@ -72,7 +72,7 @@
                         <article>
 
                             <h2>What is Shopify?</h2>
-                            <p><a href="https;//www.shopify.com" target="_blank">Shopify</a> is a hosted e-commerce platform for businesses catering for small cottage industries to large online stores. It is a subscription based service paying as little as £25 a month plus a small transaction fee. At the time of writing there are over 500,000 Shopify stores doing business contributing to over $40 billion worth of sales worldwide.</p>
+                            <p><a href="https;//www.shopify.com" target="_blank"><strong>Shopify</strong></a> is a hosted e-commerce platform for businesses catering for small cottage industries to large online stores. It is a subscription based service paying as little as £25 a month plus a small transaction fee. At the time of writing there are over 500,000 Shopify stores doing business contributing to over $40 billion worth of sales worldwide.</p>
 							<h3>Why use Shopify as a hosted solution?</h3>
                             <p>Using a hosted solution basically means that Shopify owns the back-end code - The nuts and bolts of what makes their stores work and trade securely. This allows you to take advantage of all they have to offer;
 
@@ -104,7 +104,7 @@ This in essence saves your businesses money and time as a basic store could be t
 							<li>Research and test for improvements using live user data</li>
 						</ul>
 						<h3>How much does it cost?</h3>
-						<p>This is a loaded question and one I can’t really answer without knowing a bit more about the spec. I have built Shopify store themes from as little as £900 to £10,000. It really does depend on the level of customisation, functionality and scale. If you’d like to discuss your project and get a detailed quotation please get in touch.</p>
+						<p>This is a loaded question and one I can’t really answer without knowing a bit more about the spec. I have built Shopify store themes from as little as £900 to £10,000. It really does depend on the level of customisation, functionality and scale. If you’d like to discuss your project and get a detailed quotation please <a href="contact">get in touch</a>.</p>
                         </article>
                     </div>
                     
