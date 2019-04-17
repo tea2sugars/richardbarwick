@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Rik Barwick: A Freelance Website Designer & Developer based in Suffolk, UK">
+    <meta name="description" content="Freelance Website Design & Development working on responsive websites that work and deliver results - based in Suffolk, UK">
     <meta name="author" content="Rik Barwick">
 
-    <title>Rik Barwick -Freelance Website Designer & Developer</title>
+    <title>Rik Barwick - Freelance Website Designer & Developer</title>
 
     <?php include( 'assets/php/includes/head-css.html');?>
 
@@ -49,7 +49,7 @@
                         <h1 class="module-title align-center">Freelance Website Design and Development</h1>
 
                         <div class="module-subtitle align-center">
-                            <p class="lead">Helping deliver your brand message and your product marketing instantly anywhere in the world.</p>
+                            <p class="lead">Designing responsive websites that work for you and your users.</p>
                         </div>
                     </div>
 
@@ -129,13 +129,13 @@
 	                </div>
 	                <div class="col-md-6">
 		                <h4>My Website Design Experience</h4>
-		                <p>I am a hybrid designer / developer so whilst I love designing digital products - I also like to get under the hood and make things work with front-end development (HTML/CSS).</p>
+		                <p>I am a hybrid designer / developer so whilst I am passionate designing digital products - I also like to get under the hood and make things work with front-end development (HTML/CSS).</p>
 		                <p>This skillset has allowed me to work on some major websites for some of the countries leading brands as well as independent businesses and charities. I have experience with many CMS and CRM systems including <a href="https://www.hubspot.com" target="_blank">Hubspot</a>, <a href="https://www.marketo.com" target="_blank">Marketo</a>, <a href="https://www.wordpress.com" target="_blank">WordPress</a>, <a href="https://www.shopify.com" target="_blank">Shopify</a>, <a href="https://www.grabaperch.com" target="_blank">Perch</a> and <a href="https://www.drupal.org" target="_blank">Drupal</a>.</p>
                         <div> <a href="contact" class="btn btn-lg btn-y btn-round">Book me today!</a></div>
 	                </div>
 	                
 	                <div class="col-md-4" style="margin-top: 30px;">
-		                <img src="assets/images/shopify-image.png" alt="shopify-image" width="360" height="287" class="width:100%; height:auto; ">
+		                <img src="assets/images/website-image.png" alt="Website Design" width="360" height="287" class="width:100%; height:auto; ">
 	                </div>
 	                
                 </div>

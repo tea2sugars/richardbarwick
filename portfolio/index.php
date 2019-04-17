@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Rik Barwick's Digital Portfolio">
+	<meta name="description" content="Rik Barwick's Freelance Website Design and Branding Portfolio">
 	<meta name="author" content="Rik Barwick">
 	
 	
