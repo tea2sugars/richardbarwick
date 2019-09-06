@@ -57,6 +57,21 @@
 				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item digital">
+					<a href="tih">
+						<div class="work-image">
+							<img src="../assets/images/projects/tih/tih_thumbnail.jpg" alt="The Interior House"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">The Interior House</h3>
+							<div class="work-descr ">
+								Shopify Theme
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item digital">
 					<a href="kitchenology">
 						<div class="work-image">
 							<img src="../assets/images/projects/kitchenology_thumbnail.jpg" alt="Kitchenology"/>
