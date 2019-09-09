@@ -112,6 +112,8 @@
 						<h3 class="m-t-0">What I did</h3>
 						<p>Fat Beehive was tasked with rebuilding Tommy's homepage and restyling internal pages. This wasn't to be a 'rebuild' so we had to implement the new templates to existing infrastructure already in place. I worked with the agency and put together the new front-end code (HTML and CSS) for the new design which was later implemented into the Drupal CMS.</p>
 						<p>Throughout this project I was tasked with making creative decisions to implement Tommy's new branding element. The complex curve patterns caused no end of headaches when dealing with responsive layouts - especially with smaller mobile devices. I broke these up into several layers and positioned them as separate background images along the site's breakpoints.</p>
+						<p>The resulting homepage is soft and approachable for the users. It offers parents support through easily accessible information and real life stories offering comfort and peace of mind.</p>
+						<p>I'm proud that the work can help make a difference to it's users</p>
 					</div>
 					<div class="col-md-11 col-sm-offset-1">
 						<p><img src="../assets/images/projects/Tommys/tommys_portfolio_02.jpg" alt="Tommy's Homepage Redesign"></p>
