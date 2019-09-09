@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Rik Barwick worked with JTF Marketing and The Interior House to design a high-end Shopify e-commerce website.">
+	<meta name="description" content="Rik Barwick worked with JTF Marketing and The Interior House to design a high-end Shopify e-commerce website for the luxury consumer market.">
 	<meta name="author" content="">
 	
 	<title>The Interior House | Shopify Theme by Rik Barwick </title>
@@ -25,7 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">The Interior House Shopify Theme<br/><span class="small">Switching e-commerce platform to the Shopify platform.</span></h1>
+						<h1 class="module-title align-center">The Interior House<br>Shopify Theme<br/><span class="small">Switching the e-commerce platform to the Shopify.</span></h1>
 
 
 					</div>
@@ -110,7 +110,7 @@
 					</div>
 					<div class="col-md-8 col-sm-offset-1">
 						<h3 class="m-t-0">What I did</h3>
-						<p>Whilst Shopify offer a great range of base themes this website needed a completely bespoke theme built from the ground up. I opted to use the development theme 'Slate' which is was put together to give developers a blank canvas to write bespoke themes using the Shopify coding language 'Liquid'.</p>
+						<p>Whilst Shopify offer a great range of base themes this website needed a completely bespoke theme built from the ground up. I opted to use the development theme 'Slate' which was put together to give developers a blank canvas to write bespoke themes using the Shopify coding language 'Liquid'.</p>
 						<p>Whilst building the site I consulted with JTF Marketing and TIH on improvements to the in-page navigation, route to basket and supplier management.</p>
 						<p>The results I believe are stunning - the site certainly breaks away from the typical look and feel of many Shopify sites and really shows off the products in their best light.</p>
 					</div>
