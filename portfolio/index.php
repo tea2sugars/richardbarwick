@@ -57,7 +57,7 @@
 				
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item digital">
-					<a href="tih">
+					<a href="tommys">
 						<div class="work-image">
 							<img src="../assets/images/projects/Tommys/tommys_thumbnail.jpg" alt="Tommy's Homepage Redesign"/>
 						</div>
