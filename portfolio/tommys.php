@@ -4,9 +4,9 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Rik Barwick worked with Fat Beehive to redesign and develop the front-end design for the new Tommy's Homepage.">
-	<meta name="author" content="">
+	<meta name="author" content="Rik Barwick">
 	
-	<title>Tommy's Homepage Redesign | Front-end development by Rik Barwick and Fat Beehive </title>
+	<title>Tommy's Homepage Redesign | Front-end development by Rik Barwick and Fat Beehive</title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>

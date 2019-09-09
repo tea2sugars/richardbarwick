@@ -59,6 +59,21 @@
 				<li class="work-item digital">
 					<a href="tih">
 						<div class="work-image">
+							<img src="../assets/images/projects/Tommys/tommys_thumbnail.jpg" alt="Tommy's Homepage Redesign"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Tommy's</h3>
+							<div class="work-descr ">
+								Homepage front-end redevelopment
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item digital">
+					<a href="tih">
+						<div class="work-image">
 							<img src="../assets/images/projects/tih/tih_thumbnail.jpg" alt="The Interior House"/>
 						</div>
 						<div class="work-caption">
