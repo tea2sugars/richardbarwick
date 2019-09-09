@@ -25,7 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">The Interior House<br>Shopify Theme<br/><span class="small">Switching the e-commerce platform to the Shopify.</span></h1>
+						<h1 class="module-title align-center">The Interior House<br>Shopify Theme<br/><span class="small">Switching the e-commerce platform to Shopify.</span></h1>
 
 
 					</div>
