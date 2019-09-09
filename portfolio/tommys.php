@@ -6,7 +6,7 @@
 	<meta name="description" content="Rik Barwick worked with Fat Beehive to redesign and develop the front-end design for the new Tommy's Homepage.">
 	<meta name="author" content="">
 	
-	<title>Tommy's Homepage Redesign | Front-end development by Rik Barwick </title>
+	<title>Tommy's Homepage Redesign | Front-end development by Rik Barwick and Fat Beehive </title>
 	
 	<?php include('../assets/php/includes/head-css-internal.html');?>
 </head>
@@ -82,12 +82,12 @@
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">History</h5>
-								<p>The Interior House are a client of JTF Marketing. TIH specialise in high-end, luxury items for the home</p>
+								<p>Tommy's are a client of Fat Beehive. Tommy's are the UK's leading baby charity and exist to save babies' lives. They fund pioneering medical research into the causes and prevention of miscarriage, premature birth and stillbirth.</p>
 							</div>
 
 							<div class="col-sm-6 col-md-6 col-lg-6 m-b-30">
 								<h5 class="m-t-0">My Brief</h5>
-								<p>My brief was to re-develop the e-commerce website and move it to a new platform, Shopify. The site was to be as close to the original design concept but I was to add UX value where possible.</p>
+								<p>My brief from Fat Beehive was to build and design the new Tommy's homepage based on Tommy's new branding and the agencies concept and UX research.</p>
 							</div>
 											
 							
@@ -110,9 +110,8 @@
 					</div>
 					<div class="col-md-8 col-sm-offset-1">
 						<h3 class="m-t-0">What I did</h3>
-						<p>Whilst Shopify offer a great range of base themes this website needed a completely bespoke theme built from the ground up. I opted to use the development theme 'Slate' which was put together to give developers a blank canvas to write bespoke themes using the Shopify coding language 'Liquid'.</p>
-						<p>Whilst building the site I consulted with JTF Marketing and TIH on improvements to the in-page navigation, route to basket and supplier management.</p>
-						<p>The results I believe are stunning - the site certainly breaks away from the typical look and feel of many Shopify sites and really shows off the products in their best light.</p>
+						<p>Fat Beehive was tasked with rebuilding Tommy's homepage and restyling internal pages. This wasn't to be a 'rebuild' so we had to implement the new templates to existing infrastructure already in place. I worked with the agency and put together the new front-end code (HTML and CSS) for the new design which was later implemented into the Drupal CMS.</p>
+						<p>Throughout this project I was tasked with making creative decisions to implement Tommy's new branding element. The complex curve patterns caused no end of headaches when dealing with responsive layouts - especially with smaller mobile devices. I broke these up into several layers and positioned them as separate background images along the site's breakpoints.</p>
 					</div>
 					<div class="col-md-11 col-sm-offset-1">
 						<p><img src="../assets/images/projects/Tommys/tommys_portfolio_02.jpg" alt="Tommy's Homepage Redesign"></p>
