@@ -158,6 +158,21 @@ This in essence saves your businesses money and time as a basic store could be t
                 <!-- PORTFOLIO LIST -->
                 <ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
 
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item digital ux">
+					<a href="portfolio/tih">
+						<div class="work-image">
+							<img src="assets/images/projects/TIH/tih_thumbnail.jpg" alt="TIH Shopify Theme"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">The Interior House</h3>
+							<div class="work-descr ">
+								Bespoke Shopify Theme Development
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
                     <!-- PORTFOLIO ITEM -->
 				<li class="work-item digital ux">
 					<a href="portfolio/5mm">
@@ -203,21 +218,7 @@ This in essence saves your businesses money and time as a basic store could be t
 					</a>
 				</li>
 				<!-- /PORTFOLIO ITEM -->
-				<!-- PORTFOLIO ITEM -->
-				<li class="work-item digital">
-					<a href="portfolio/hallstreet">
-						<div class="work-image">
-							<img src="assets/images/projects/hallst_portfolio_thumbnail.png" alt="Hall Street"/>
-						</div>
-						<div class="work-caption">
-							<h3 class="work-title ">Hall Street</h3>
-							<div class="work-descr ">
-								Responsive Website Design
-							</div>
-						</div>
-					</a>
-				</li>
-				<!-- /PORTFOLIO ITEM -->
+		
                 </ul>
                 <!-- /PORTFOLIO LIST -->
             </div>
