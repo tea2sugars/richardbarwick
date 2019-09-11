@@ -33,8 +33,7 @@
 
 						<ul id="filters" class="filter hidden-xs">
 							<li><a href="#" data-filter="*" class="current wow fadeInUp">All</a></li>
-							<li><a href="#" data-filter=".ux" class="wow fadeInUp" data-wow-delay="0.2s">UX &amp; Prototyping</a></li>
-							<li><a href="#" data-filter=".digital" class="wow fadeInUp" data-wow-delay="0.2s">UI Design</a></li>
+							<li><a href="#" data-filter=".digital" class="wow fadeInUp" data-wow-delay="0.2s">Website Design</a></li>
 							<li><a href="#" data-filter=".artdirection" class="wow fadeInUp" data-wow-delay="0.2s">Art Direction</a></li>
 							<li><a href="#" data-filter=".branding" class="wow fadeInUp" data-wow-delay="0.2s">Branding</a></li>
 							<!--<li><a href="#" data-filter="*" class="current wow fadeInUp">All</a></li>
@@ -55,6 +54,21 @@
 			<!-- PORTFOLIO LIST -->
 			<ul id="works-grid" class="works-grid works-grid-4 works-hover-w">
 				
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item digital">
+					<a href="campaigntoolkit">
+						<div class="work-image">
+							<img src="../assets/images/projects/ISD/isd-portfolio-thumbnail.jpg" alt="The Institute for Strategic Dialogue (ISD) Campaign Toolkit Website Design"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">The Institute for Strategic Dialogue (ISD)</h3>
+							<div class="work-descr ">
+								The Campaign Toolkit website
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
 				<!-- PORTFOLIO ITEM -->
 				<li class="work-item digital">
 					<a href="tommys">

@@ -61,7 +61,7 @@
 					<div class="col-md-4">
 						<div class="work-details">
 							<ul>
-								<li><strong>Client: </strong>ISD</li>
+								<li><strong>Client: </strong>The Institute for Strategic Dialogue (ISD)</li>
 								<li><strong>Agency: </strong><a href="https://www.fatbeehive.com" target="_blank">Fat Beehive</a></li>
 								<li><strong>Project: </strong>Website Design</li>
 								<li><strong>Online: </strong><a href="https://www.campaigntoolkit.org" target="_blank">campaigntoolkit.org</a></li>
