@@ -25,7 +25,7 @@
 
 					<div class="col-sm-6 col-sm-offset-3">
 
-						<h1 class="module-title align-center">ISD Campaign Toolkit Website Design<br/><span class="small">Front-end development.</span></h1>
+						<h1 class="module-title align-center">ISD Campaign Toolkit<br/>Website Design<br/><span class="small">Front-end development.</span></h1>
 
 
 					</div>
