@@ -8,7 +8,7 @@
     <meta content="Freelance Digital Designer specialising in UI Design and Brand" name="description">
     <meta name="keywords" content="UI Designer, UX Designer, Web Design, Website Design, Digital Agency, Lean Digital Agency, Remote Designer, Senior Designer, Freelance">
 
-    <title>Rik Barwick - Freelance Digital Designer specialising in UI Design</title>
+    <title>Rik Barwick - Freelance Designer specialising in branding and website design</title>
     <?php include('assets/php/includes/head-css.html');?>
 </head>
 
@@ -21,15 +21,21 @@
                     <div class="col-md-8 col-md-offset-1 col-lg-7 col-lg-offset-1">
                         <h2>
 	                        <span class="yellow">–</span><br>
-		                    	Creative Website Design & Front-end Development<br/>
-		                    <span class="yellow">–</span>
+		                    	Freelance Designer &amp; Art Director<br/>
 		                </h2>
 		                <p class="lead">
-			                My name is Rik Barwick and I am an award-winning freelance web designer. I am proudly based on a hill just outside Bury St Edmunds in Suffolk.
+			                My name is Rik Barwick and I am an award-winning freelance designer, proudly based on a hill just outside Bury St Edmunds in Suffolk.
 		                </p>
+                    <!--<p class="lead">
+			                I work with businesses of all shapes and sizes. From SMEs, startups and large corporates. With my extensive experience I provide clients creative solutions that help deliver their message to the right audience, increase sales and help their business grow.
+		                </p>-->
 		                <p class="lead">
-			                I work with businesses of all shapes and sizes. From SMEs, startups and large corporates. With my extensive experience I provide my clients with digital solutions to real problems.
-		                </p>
+			                I've always wanted to change the world through the skills I have. One day I hope I achieve this but in the meantime every project I do I try and change my audiences' world - leaving a positive legacy behind me whether it's fantastic results for my clients, a better customer experience, a sense of pride and something beautiful.
+			                </p>
+			                 <p class="lead">
+			                 I truly love what I do!
+			                 </p>
+		                
 		                
 			            <a class="btn btn-y btn-round btn-lg" href="contact">Arrange a call</a> &nbsp; <a class="btn btn-y btn-round btn-lg" href="portfolio">View my portfolio</a>                          
                     </div>
@@ -46,10 +52,9 @@
                 <div class="container">
 		            <div class="row module-header">
 		                <div class="col-sm-12 col-md-8 col-md-offset-2 align-center">
-		                    <h1>Freelance Website Design</h1>
+		                    <h1>Freelance Designer</h1>
 		                     <p class="lead"><span class="yellow">–</span>
-		                        <br>I have been designing websites and digital products since 2001 and have built up a wide skillset. This includes UI (User Interface) Design, UX (User Experience) Design, HTML &amp; CSS, CMS Development including WordPress and Shopify.
-		                        <br/>
+		                        <br>I have been creating brands, websites and digital products since 2001 and have built up a wide skillset. I'm always looking how to use new techniques in my work from finger-painting to the latest technology API's and plugins.<br/>
 			                    <span class="yellow">–</span>
 		                    </p>
 		                </div>
@@ -60,7 +65,7 @@
 		                    <h3>Why hire me to design your website?</h3>
 		                    <p class="lead"><span class="yellow">–</span>
 		                        <br/>
-		                        There are many web designers and developers out there; Designers with different specialties and acronyms. Agencies of all shapes sizes. Here's why you need to speak with me...
+		                        There are many web designers and developers out there; Designers with different specialties and acronyms. Agencies of all shapes sizes. Here's why you need to speak with me instead...
 		                        <br/>
 			                    <span class="yellow">–</span>
 		                    </p>
@@ -128,6 +133,50 @@
                     <div class="row">
                         <ul class="works-grid works-grid-3 works-hover-w" id="works-grid">
 	                        
+				<li class="work-item digital">
+					<a href="portfolio/campaigntoolkit">
+						<div class="work-image">
+							<img src="../assets/images/projects/ISD/isd-portfolio-thumbnail.jpg" alt="The Institute for Strategic Dialogue (ISD) Campaign Toolkit Website Design"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">The Institute for Strategic Dialogue (ISD)</h3>
+							<div class="work-descr ">
+								The Campaign Toolkit website
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- /PORTFOLIO ITEM -->
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item digital">
+					<a href="portfolio/tommys">
+						<div class="work-image">
+							<img src="../assets/images/projects/Tommys/tommys_thumbnail.jpg" alt="Tommy's Homepage Redesign"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">Tommy's</h3>
+							<div class="work-descr ">
+								Homepage front-end redevelopment
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- PORTFOLIO ITEM -->
+				<li class="work-item digital">
+					<a href="portfolio/tih">
+						<div class="work-image">
+							<img src="../assets/images/projects/tih/tih_thumbnail.jpg" alt="The Interior House"/>
+						</div>
+						<div class="work-caption">
+							<h3 class="work-title ">The Interior House</h3>
+							<div class="work-descr ">
+								Shopify Theme
+							</div>
+						</div>
+					</a>
+				</li>
+				<!-- PORTFOLIO ITEM -->
+	                        
 	                        <!-- PORTFOLIO ITEM -->
 							<li class="work-item digital">
 								<a href="portfolio/kitchenology">
@@ -160,7 +209,7 @@
 							</li>
 							<!-- /PORTFOLIO ITEM -->
 	                        
-	                        <!-- PORTFOLIO ITEM -->
+	                        <!-- PORTFOLIO ITEM 
 							<li class="work-item digital">
 								<a href="portfolio/hsbc">
 									<div class="work-image">
@@ -192,7 +241,7 @@
 							</li>
 							<!-- /PORTFOLIO ITEM -->
 	                        
-	                        <!-- PORTFOLIO ITEM -->
+	                        <!-- PORTFOLIO ITEM 
 							<li class="work-item digital ux dev">
 								<a href="portfolio/salute">
 									<div class="work-image">
@@ -220,13 +269,13 @@
 
 
                                         <div class="work-descr">
-                                            UX &amp; UI Design
+                                            SaaS UX/UI Design
                                         </div>
                                     </div>
                                 </a>
                             </li>
 							
-							<!-- PORTFOLIO ITEM -->
+							<!-- PORTFOLIO ITEM 
 							<li class="work-item digital ux">
 								<a href="portfolio/5mm">
 									<div class="work-image">
